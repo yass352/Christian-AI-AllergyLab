@@ -1,0 +1,325 @@
+taxon,famille,allergenes_acc,mois,moyenne_grains_m3,jours,stations
+ailante,pollen d'arbre,Ail_a,1,0.0,21421,88
+ailante,pollen d'arbre,Ail_a,2,0.0,44937,100
+ailante,pollen d'arbre,Ail_a,3,0.0,57908,102
+ailante,pollen d'arbre,Ail_a,4,0.01,56580,103
+ailante,pollen d'arbre,Ail_a,5,0.02,59520,104
+ailante,pollen d'arbre,Ail_a,6,0.08,58050,104
+ailante,pollen d'arbre,Ail_a,7,0.02,64635,116
+ailante,pollen d'arbre,Ail_a,8,0.0,65100,118
+ailante,pollen d'arbre,Ail_a,9,0.0,61710,117
+ailante,pollen d'arbre,Ail_a,10,0.0,29419,108
+ailante,pollen d'arbre,Ail_a,11,0.0,5160,24
+ailante,pollen d'arbre,Ail_a,12,0.03,4855,24
+alternaria,moisissure,Alt_a,1,1.07,7440,64
+alternaria,moisissure,Alt_a,2,1.88,10655,68
+alternaria,moisissure,Alt_a,3,2.96,12090,70
+alternaria,moisissure,Alt_a,4,3.99,11490,71
+alternaria,moisissure,Alt_a,5,12.42,12152,71
+alternaria,moisissure,Alt_a,6,52.74,11910,72
+alternaria,moisissure,Alt_a,7,121.27,13113,81
+alternaria,moisissure,Alt_a,8,60.85,13423,81
+alternaria,moisissure,Alt_a,9,26.06,12870,81
+alternaria,moisissure,Alt_a,10,9.74,6045,55
+alternaria,moisissure,Alt_a,11,6.67,2070,13
+alternaria,moisissure,Alt_a,12,2.63,1919,14
+ambroisie,pollen d'herbacée,Amb_a,1,0.01,21421,88
+ambroisie,pollen d'herbacée,Amb_a,2,0.01,44937,100
+ambroisie,pollen d'herbacée,Amb_a,3,0.01,57908,102
+ambroisie,pollen d'herbacée,Amb_a,4,0.01,56580,103
+ambroisie,pollen d'herbacée,Amb_a,5,0.01,59520,104
+ambroisie,pollen d'herbacée,Amb_a,6,0.01,58050,104
+ambroisie,pollen d'herbacée,Amb_a,7,0.06,64635,116
+ambroisie,pollen d'herbacée,Amb_a,8,4.75,65100,118
+ambroisie,pollen d'herbacée,Amb_a,9,5.01,61710,117
+ambroisie,pollen d'herbacée,Amb_a,10,0.12,29419,108
+ambroisie,pollen d'herbacée,Amb_a,11,0.03,5160,24
+ambroisie,pollen d'herbacée,Amb_a,12,0.01,4855,24
+armoise,pollen d'herbacée,Art_v,1,0.0,21421,88
+armoise,pollen d'herbacée,Art_v,2,0.0,44937,100
+armoise,pollen d'herbacée,Art_v,3,0.0,57908,102
+armoise,pollen d'herbacée,Art_v,4,0.0,56580,103
+armoise,pollen d'herbacée,Art_v,5,0.01,59520,104
+armoise,pollen d'herbacée,Art_v,6,0.03,58050,104
+armoise,pollen d'herbacée,Art_v,7,0.59,64635,116
+armoise,pollen d'herbacée,Art_v,8,1.94,65100,118
+armoise,pollen d'herbacée,Art_v,9,0.89,61710,117
+armoise,pollen d'herbacée,Art_v,10,0.22,29419,108
+armoise,pollen d'herbacée,Art_v,11,0.06,5160,24
+armoise,pollen d'herbacée,Art_v,12,0.01,4855,24
+aspergillus,moisissure,Asp_f,1,14.56,3906,41
+aspergillus,moisissure,Asp_f,2,15.84,4713,46
+aspergillus,moisissure,Asp_f,3,19.51,5239,47
+aspergillus,moisissure,Asp_f,4,18.49,5010,48
+aspergillus,moisissure,Asp_f,5,19.68,5332,48
+aspergillus,moisissure,Asp_f,6,26.26,5220,49
+aspergillus,moisissure,Asp_f,7,24.8,5859,56
+aspergillus,moisissure,Asp_f,8,28.5,5952,55
+aspergillus,moisissure,Asp_f,9,27.36,5640,55
+aspergillus,moisissure,Asp_f,10,22.3,3038,39
+aspergillus,moisissure,Asp_f,11,79.39,1140,11
+aspergillus,moisissure,Asp_f,12,31.03,1084,11
+aulne,pollen d'arbre,Aln_g,1,1.79,21421,88
+aulne,pollen d'arbre,Aln_g,2,32.6,44937,100
+aulne,pollen d'arbre,Aln_g,3,17.69,57908,102
+aulne,pollen d'arbre,Aln_g,4,0.53,56580,103
+aulne,pollen d'arbre,Aln_g,5,0.21,59520,104
+aulne,pollen d'arbre,Aln_g,6,0.19,58050,104
+aulne,pollen d'arbre,Aln_g,7,0.04,64635,116
+aulne,pollen d'arbre,Aln_g,8,0.01,65100,118
+aulne,pollen d'arbre,Aln_g,9,0.01,61710,117
+aulne,pollen d'arbre,Aln_g,10,0.0,29419,108
+aulne,pollen d'arbre,Aln_g,11,0.01,5160,24
+aulne,pollen d'arbre,Aln_g,12,0.04,4855,24
+bouleau,pollen d'arbre,Bet_v,1,0.01,21421,88
+bouleau,pollen d'arbre,Bet_v,2,0.07,44937,100
+bouleau,pollen d'arbre,Bet_v,3,10.71,57908,102
+bouleau,pollen d'arbre,Bet_v,4,62.86,56580,103
+bouleau,pollen d'arbre,Bet_v,5,3.55,59520,104
+bouleau,pollen d'arbre,Bet_v,6,0.11,58050,104
+bouleau,pollen d'arbre,Bet_v,7,0.02,64635,116
+bouleau,pollen d'arbre,Bet_v,8,0.05,65100,118
+bouleau,pollen d'arbre,Bet_v,9,0.02,61710,117
+bouleau,pollen d'arbre,Bet_v,10,0.0,29419,108
+bouleau,pollen d'arbre,Bet_v,11,0.01,5160,24
+bouleau,pollen d'arbre,Bet_v,12,0.01,4855,24
+charme,pollen d'arbre,,1,0.01,21421,88
+charme,pollen d'arbre,,2,0.2,44937,100
+charme,pollen d'arbre,,3,4.95,57908,102
+charme,pollen d'arbre,,4,7.65,56580,103
+charme,pollen d'arbre,,5,0.14,59520,104
+charme,pollen d'arbre,,6,0.02,58050,104
+charme,pollen d'arbre,,7,0.01,64635,116
+charme,pollen d'arbre,,8,0.02,65100,118
+charme,pollen d'arbre,,9,0.0,61710,117
+charme,pollen d'arbre,,10,0.0,29419,108
+charme,pollen d'arbre,,11,0.0,5160,24
+charme,pollen d'arbre,,12,0.0,4855,24
+châtaignier,pollen d'arbre,,1,0.0,21421,88
+châtaignier,pollen d'arbre,,2,0.0,44937,100
+châtaignier,pollen d'arbre,,3,0.01,57908,102
+châtaignier,pollen d'arbre,,4,0.04,56580,103
+châtaignier,pollen d'arbre,,5,0.15,59520,104
+châtaignier,pollen d'arbre,,6,22.63,58050,104
+châtaignier,pollen d'arbre,,7,21.91,64635,116
+châtaignier,pollen d'arbre,,8,0.73,65100,118
+châtaignier,pollen d'arbre,,9,0.18,61710,117
+châtaignier,pollen d'arbre,,10,0.03,29419,108
+châtaignier,pollen d'arbre,,11,0.02,5160,24
+châtaignier,pollen d'arbre,,12,0.01,4855,24
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1,0.0,21421,88
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2,0.0,44937,100
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,3,0.01,57908,102
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,4,0.02,56580,103
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,5,0.22,59520,104
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,6,0.41,58050,104
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,7,0.57,64635,116
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,8,1.37,65100,118
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,9,0.92,61710,117
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,10,0.1,29419,108
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,11,0.04,5160,24
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,12,0.01,4855,24
+chêne,pollen d'arbre,,1,0.03,21421,88
+chêne,pollen d'arbre,,2,0.03,44937,100
+chêne,pollen d'arbre,,3,1.95,57908,102
+chêne,pollen d'arbre,,4,67.09,56580,103
+chêne,pollen d'arbre,,5,63.1,59520,104
+chêne,pollen d'arbre,,6,7.01,58050,104
+chêne,pollen d'arbre,,7,0.36,64635,116
+chêne,pollen d'arbre,,8,0.12,65100,118
+chêne,pollen d'arbre,,9,0.17,61710,117
+chêne,pollen d'arbre,,10,0.05,29419,108
+chêne,pollen d'arbre,,11,0.24,5160,24
+chêne,pollen d'arbre,,12,0.15,4855,24
+cladosporium,moisissure,Cla_h,1,40.45,7471,65
+cladosporium,moisissure,Cla_h,2,42.37,10711,69
+cladosporium,moisissure,Cla_h,3,82.83,12152,71
+cladosporium,moisissure,Cla_h,4,137.88,11550,72
+cladosporium,moisissure,Cla_h,5,539.2,12214,72
+cladosporium,moisissure,Cla_h,6,1780.43,11970,73
+cladosporium,moisissure,Cla_h,7,2173.5,13175,82
+cladosporium,moisissure,Cla_h,8,1534.32,13485,82
+cladosporium,moisissure,Cla_h,9,862.24,12930,82
+cladosporium,moisissure,Cla_h,10,430.56,6107,56
+cladosporium,moisissure,Cla_h,11,430.27,2100,14
+cladosporium,moisissure,Cla_h,12,135.91,1950,15
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1,19.09,21421,88
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2,88.82,44937,100
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,3,105.65,57908,102
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,4,17.88,56580,103
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,5,6.87,59520,104
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,6,2.95,58050,104
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,7,1.11,64635,116
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,8,0.56,65100,118
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,9,0.36,61710,117
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,10,1.9,29419,108
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,11,18.65,5160,24
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,12,13.82,4855,24
+frêne,pollen d'arbre,Fra_e,1,5.19,21421,88
+frêne,pollen d'arbre,Fra_e,2,7.12,44937,100
+frêne,pollen d'arbre,Fra_e,3,26.35,57908,102
+frêne,pollen d'arbre,Fra_e,4,27.26,56580,103
+frêne,pollen d'arbre,Fra_e,5,1.43,59520,104
+frêne,pollen d'arbre,Fra_e,6,0.14,58050,104
+frêne,pollen d'arbre,Fra_e,7,0.02,64635,116
+frêne,pollen d'arbre,Fra_e,8,0.01,65100,118
+frêne,pollen d'arbre,Fra_e,9,0.0,61710,117
+frêne,pollen d'arbre,Fra_e,10,0.01,29419,108
+frêne,pollen d'arbre,Fra_e,11,0.02,5160,24
+frêne,pollen d'arbre,Fra_e,12,1.29,4855,24
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1,0.07,21421,88
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2,0.2,44937,100
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,3,0.73,57908,102
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,4,3.41,56580,103
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,5,36.81,59520,104
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,6,66.48,58050,104
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,7,19.52,64635,116
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,8,3.6,65100,118
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,9,1.62,61710,117
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,10,0.21,29419,108
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,11,0.17,5160,24
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,12,0.09,4855,24
+hêtre,pollen d'arbre,Fag_s,1,0.0,21421,88
+hêtre,pollen d'arbre,Fag_s,2,0.0,44937,100
+hêtre,pollen d'arbre,Fag_s,3,0.03,57908,102
+hêtre,pollen d'arbre,Fag_s,4,2.33,56580,103
+hêtre,pollen d'arbre,Fag_s,5,2.22,59520,104
+hêtre,pollen d'arbre,Fag_s,6,0.05,58050,104
+hêtre,pollen d'arbre,Fag_s,7,0.01,64635,116
+hêtre,pollen d'arbre,Fag_s,8,0.0,65100,118
+hêtre,pollen d'arbre,Fag_s,9,0.0,61710,117
+hêtre,pollen d'arbre,Fag_s,10,0.0,29419,108
+hêtre,pollen d'arbre,Fag_s,11,0.0,5160,24
+hêtre,pollen d'arbre,Fag_s,12,0.0,4855,24
+mercuriale,pollen d'herbacée,Mer_a,1,0.1,21421,88
+mercuriale,pollen d'herbacée,Mer_a,2,0.13,44937,100
+mercuriale,pollen d'herbacée,Mer_a,3,0.19,57908,102
+mercuriale,pollen d'herbacée,Mer_a,4,0.18,56580,103
+mercuriale,pollen d'herbacée,Mer_a,5,0.13,59520,104
+mercuriale,pollen d'herbacée,Mer_a,6,0.34,58050,104
+mercuriale,pollen d'herbacée,Mer_a,7,0.77,64635,116
+mercuriale,pollen d'herbacée,Mer_a,8,1.14,65100,118
+mercuriale,pollen d'herbacée,Mer_a,9,1.16,61710,117
+mercuriale,pollen d'herbacée,Mer_a,10,0.31,29419,108
+mercuriale,pollen d'herbacée,Mer_a,11,0.24,5160,24
+mercuriale,pollen d'herbacée,Mer_a,12,0.15,4855,24
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1,3.81,21421,88
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2,13.84,44937,100
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,3,6.3,57908,102
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,4,0.31,56580,103
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,5,0.03,59520,104
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,6,0.01,58050,104
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,7,0.0,64635,116
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,8,0.0,65100,118
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,9,0.0,61710,117
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,10,0.01,29419,108
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,11,0.01,5160,24
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,12,0.13,4855,24
+noyer,pollen d'arbre,Jug_r_pollen,1,0.0,21421,88
+noyer,pollen d'arbre,Jug_r_pollen,2,0.01,44937,100
+noyer,pollen d'arbre,Jug_r_pollen,3,0.03,57908,102
+noyer,pollen d'arbre,Jug_r_pollen,4,0.68,56580,103
+noyer,pollen d'arbre,Jug_r_pollen,5,0.79,59520,104
+noyer,pollen d'arbre,Jug_r_pollen,6,0.04,58050,104
+noyer,pollen d'arbre,Jug_r_pollen,7,0.0,64635,116
+noyer,pollen d'arbre,Jug_r_pollen,8,0.0,65100,118
+noyer,pollen d'arbre,Jug_r_pollen,9,0.0,61710,117
+noyer,pollen d'arbre,Jug_r_pollen,10,0.0,29419,108
+noyer,pollen d'arbre,Jug_r_pollen,11,0.0,5160,24
+noyer,pollen d'arbre,Jug_r_pollen,12,0.0,4855,24
+olivier,pollen d'arbre,Ole_e,1,0.0,21421,88
+olivier,pollen d'arbre,Ole_e,2,0.0,44937,100
+olivier,pollen d'arbre,Ole_e,3,0.01,57908,102
+olivier,pollen d'arbre,Ole_e,4,0.17,56580,103
+olivier,pollen d'arbre,Ole_e,5,5.13,59520,104
+olivier,pollen d'arbre,Ole_e,6,2.97,58050,104
+olivier,pollen d'arbre,Ole_e,7,0.1,64635,116
+olivier,pollen d'arbre,Ole_e,8,0.02,65100,118
+olivier,pollen d'arbre,Ole_e,9,0.01,61710,117
+olivier,pollen d'arbre,Ole_e,10,0.0,29419,108
+olivier,pollen d'arbre,Ole_e,11,0.02,5160,24
+olivier,pollen d'arbre,Ole_e,12,0.01,4855,24
+oseille (rumex),pollen d'herbacée,,1,0.01,21421,88
+oseille (rumex),pollen d'herbacée,,2,0.02,44937,100
+oseille (rumex),pollen d'herbacée,,3,0.08,57908,102
+oseille (rumex),pollen d'herbacée,,4,1.25,56580,103
+oseille (rumex),pollen d'herbacée,,5,5.44,59520,104
+oseille (rumex),pollen d'herbacée,,6,2.12,58050,104
+oseille (rumex),pollen d'herbacée,,7,0.34,64635,116
+oseille (rumex),pollen d'herbacée,,8,0.14,65100,118
+oseille (rumex),pollen d'herbacée,,9,0.07,61710,117
+oseille (rumex),pollen d'herbacée,,10,0.01,29419,108
+oseille (rumex),pollen d'herbacée,,11,0.01,5160,24
+oseille (rumex),pollen d'herbacée,,12,0.01,4855,24
+peuplier,pollen d'arbre,,1,0.06,21421,88
+peuplier,pollen d'arbre,,2,4.57,44937,100
+peuplier,pollen d'arbre,,3,21.49,57908,102
+peuplier,pollen d'arbre,,4,6.81,56580,103
+peuplier,pollen d'arbre,,5,0.57,59520,104
+peuplier,pollen d'arbre,,6,0.02,58050,104
+peuplier,pollen d'arbre,,7,0.01,64635,116
+peuplier,pollen d'arbre,,8,0.0,65100,118
+peuplier,pollen d'arbre,,9,0.0,61710,117
+peuplier,pollen d'arbre,,10,0.0,29419,108
+peuplier,pollen d'arbre,,11,0.0,5160,24
+peuplier,pollen d'arbre,,12,0.0,4855,24
+plantain,pollen d'herbacée,Pla_l,1,0.01,21421,88
+plantain,pollen d'herbacée,Pla_l,2,0.01,44937,100
+plantain,pollen d'herbacée,Pla_l,3,0.06,57908,102
+plantain,pollen d'herbacée,Pla_l,4,1.04,56580,103
+plantain,pollen d'herbacée,Pla_l,5,2.76,59520,104
+plantain,pollen d'herbacée,Pla_l,6,3.59,58050,104
+plantain,pollen d'herbacée,Pla_l,7,3.36,64635,116
+plantain,pollen d'herbacée,Pla_l,8,2.65,65100,118
+plantain,pollen d'herbacée,Pla_l,9,0.93,61710,117
+plantain,pollen d'herbacée,Pla_l,10,0.09,29419,108
+plantain,pollen d'herbacée,Pla_l,11,0.03,5160,24
+plantain,pollen d'herbacée,Pla_l,12,0.01,4855,24
+platane,pollen d'arbre,Pla_a,1,0.0,21421,88
+platane,pollen d'arbre,Pla_a,2,0.01,44937,100
+platane,pollen d'arbre,Pla_a,3,15.35,57908,102
+platane,pollen d'arbre,Pla_a,4,46.62,56580,103
+platane,pollen d'arbre,Pla_a,5,1.89,59520,104
+platane,pollen d'arbre,Pla_a,6,0.09,58050,104
+platane,pollen d'arbre,Pla_a,7,0.02,64635,116
+platane,pollen d'arbre,Pla_a,8,0.02,65100,118
+platane,pollen d'arbre,Pla_a,9,0.01,61710,117
+platane,pollen d'arbre,Pla_a,10,0.0,29419,108
+platane,pollen d'arbre,Pla_a,11,0.02,5160,24
+platane,pollen d'arbre,Pla_a,12,0.01,4855,24
+saule,pollen d'arbre,,1,0.0,21421,88
+saule,pollen d'arbre,,2,0.22,44937,100
+saule,pollen d'arbre,,3,4.44,57908,102
+saule,pollen d'arbre,,4,5.16,56580,103
+saule,pollen d'arbre,,5,0.57,59520,104
+saule,pollen d'arbre,,6,0.03,58050,104
+saule,pollen d'arbre,,7,0.0,64635,116
+saule,pollen d'arbre,,8,0.0,65100,118
+saule,pollen d'arbre,,9,0.0,61710,117
+saule,pollen d'arbre,,10,0.0,29419,108
+saule,pollen d'arbre,,11,0.0,5160,24
+saule,pollen d'arbre,,12,0.0,4855,24
+tilleul,pollen d'arbre,,1,0.0,21421,88
+tilleul,pollen d'arbre,,2,0.0,44937,100
+tilleul,pollen d'arbre,,3,0.0,57908,102
+tilleul,pollen d'arbre,,4,0.02,56580,103
+tilleul,pollen d'arbre,,5,0.1,59520,104
+tilleul,pollen d'arbre,,6,0.78,58050,104
+tilleul,pollen d'arbre,,7,0.28,64635,116
+tilleul,pollen d'arbre,,8,0.04,65100,118
+tilleul,pollen d'arbre,,9,0.02,61710,117
+tilleul,pollen d'arbre,,10,0.0,29419,108
+tilleul,pollen d'arbre,,11,0.0,5160,24
+tilleul,pollen d'arbre,,12,0.0,4855,24
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1,0.19,21421,88
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2,0.26,44937,100
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,3,0.83,57908,102
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,4,4.25,56580,103
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,5,7.71,59520,104
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,6,40.11,58050,104
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,7,36.99,64635,116
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,8,41.87,65100,118
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,9,6.27,61710,117
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,10,0.38,29419,108
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,11,0.65,5160,24
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,12,0.34,4855,24

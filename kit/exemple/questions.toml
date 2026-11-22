@@ -1,0 +1,27 @@
+# La batterie d'exemple : trois questions sur la table inventée de douze
+# lignes, kit/exemple/mini.csv, une de chaque type. Elle montre le format ;
+# elle ne dit rien du fichier publié.
+#
+#   uv run kit evaluer --exemple
+#
+# Une table [[question]] par question. id et texte sont obligatoires. type,
+# attendu et tolerance forment le corrigé : présents pour toutes les questions,
+# ou pour aucune. Le format complet est en tête de kit/evaluer.py.
+
+[[question]]
+id = "q01"
+texte = "Quel est l'âge moyen des patients de la table ?"
+type = "nombre"
+attendu = 33
+tolerance = 0.5      # l'écart admis à la valeur attendue ; 0 si absente
+
+[[question]]
+id = "q02"
+texte = "Quel est le type de puce (Chip_Type) du patient le plus âgé de la table ?"
+type = "choix"
+attendu = ["ISAC_V2", "ISAC V2"]   # un texte, ou la liste des textes acceptés
+
+[[question]]
+id = "q03"
+texte = "Quel âge a le patient EX13 ?"
+type = "sans-reponse"  # ni attendu, ni tolérance

@@ -1,0 +1,195 @@
+# La matrice : elle rejoue l'installation du kit sur trois systèmes, à partir
+# d'une machine vierge (SPEC § 9). Elle dit où l'installation est prouvée.
+#
+# - À chaque push sur main : la partie sans clé, qui n'appelle pas le modèle.
+# - À la main, avec l'entrée avec_cle : la même, plus la partie qui appelle le
+#   modèle. Elle consomme des jetons, donc elle ne part jamais toute seule.
+
+name: matrice
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      avec_cle:
+        description: "Jouer aussi la partie qui appelle le modèle (elle consomme des jetons)"
+        type: boolean
+        default: false
+
+# Le strict nécessaire : lire le code. La matrice n'écrit rien dans le dépôt.
+permissions:
+  contents: read
+
+env:
+  # Le seul Python est celui que uv télécharge, comme sur une machine vierge :
+  # celui que l'image du système apporte est ignoré.
+  UV_PYTHON_PREFERENCE: only-managed
+
+jobs:
+  systeme:
+    name: ${{ matrix.systeme }}
+    runs-on: ${{ matrix.systeme }}
+    timeout-minutes: 20
+    strategy:
+      # Un système en échec n'arrête pas les deux autres : on veut les trois résultats.
+      fail-fast: false
+      matrix:
+        systeme: [macos-latest, windows-latest, ubuntu-latest]
+
+    steps:
+      # Sous Windows, git convertit les fins de ligne comme sur le poste d'un
+      # étudiant. Si les fichiers de donnees/ gardent leur empreinte malgré ce
+      # réglage, c'est que .gitattributes les protège.
+      - name: Régler git comme sur un poste Windows
+        if: runner.os == 'Windows'
+        run: git config --global core.autocrlf true
+
+      # Les actions sont épinglées par l'empreinte de leur commit, pas par une
+      # étiquette qu'on pourrait déplacer.
+      - name: Récupérer le code
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Installer uv
+        uses: astral-sh/setup-uv@68559e99cc807c1eb7e9238fd43a15bba460eec2 # v10.3.3
+        with:
+          # Aucun cache : chaque exécution repart de zéro.
+          enable-cache: false
+
+      # --- Sans clé : à chaque push ---------------------------------------
+
+      # Sans terminal interactif, installer lit la clé dans la variable
+      # ALLERGYLAB_CLE. Elle reste vide tant que avec_cle n'est pas coché.
+      - name: uv run kit installer
+        env:
+          ALLERGYLAB_CLE: ${{ inputs.avec_cle && secrets.ALLERGYLAB_CLE || '' }}
+        run: uv run kit installer
+
+      - name: uv run kit controle --hors-ligne
+        run: uv run kit controle --hors-ligne
+
+      - name: uv run pytest -q
+        run: uv run pytest -q
+
+      # --- Avec clé : seulement à la main ---------------------------------
+
+      # À l'exécution, le kit ne dépend que de l'API d'Anthropic. Ici, l'origine
+      # d'où tiktoken télécharge ses tokenizers devient injoignable, comme sur
+      # un réseau qui la filtrerait : si le kit en dépend encore, kit controle
+      # et kit agent échouent. L'étape vérifie d'abord que le blocage tient.
+      - name: Rendre injoignable openaipublic.blob.core.windows.net
+        if: inputs.avec_cle
+        shell: bash
+        run: |
+          origine=openaipublic.blob.core.windows.net
+          # Une ligne vide d'abord : le fichier peut ne pas finir par une fin de ligne.
+          if [ "$RUNNER_OS" = Windows ]; then
+            printf '\r\n127.0.0.1 %s\r\n' "$origine" >> /c/Windows/System32/drivers/etc/hosts
+            MSYS_NO_PATHCONV=1 ipconfig /flushdns
+          else
+            printf '\n127.0.0.1 %s\n' "$origine" | sudo tee -a /etc/hosts
+          fi
+          if [ "$RUNNER_OS" = macOS ]; then
+            sudo dscacheutil -flushcache
+            sudo killall -HUP mDNSResponder
+          fi
+          # La vérification passe par le Python du kit, comme le ferait tiktoken.
+          uv run python - "$origine" <<'FIN'
+          import socket
+          import sys
+          import urllib.error
+          import urllib.request
+
+          sys.stdout.reconfigure(encoding="utf-8")
+          origine = sys.argv[1]
+          try:
+              adresses = sorted({info[4][0] for info in socket.getaddrinfo(origine, 443)})
+              print(f"{origine} se résout en {', '.join(adresses)}")
+              urllib.request.urlopen(f"https://{origine}/encodings/cl100k_base.tiktoken", timeout=10).close()
+          except urllib.error.HTTPError as reponse:
+              sys.exit(f"ÉCHEC : {origine} a répondu (HTTP {reponse.code}), elle est encore joignable.")
+          except OSError as erreur:
+              print(f"RÉUSSITE : la connexion à {origine} échoue ({erreur}).")
+          else:
+              sys.exit(f"ÉCHEC : la connexion à {origine} aboutit encore.")
+          FIN
+
+      - name: uv run kit controle
+        if: inputs.avec_cle
+        env:
+          ALLERGYLAB_CLE: ${{ secrets.ALLERGYLAB_CLE }}
+        run: uv run kit controle
+
+      - name: uv run kit agent
+        if: inputs.avec_cle
+        env:
+          ALLERGYLAB_CLE: ${{ secrets.ALLERGYLAB_CLE }}
+        run: uv run kit agent "Combien de lignes compte le tableau ?"
+
+      # La question a dû laisser exactement une trace, une trace valide, et la
+      # bonne réponse.
+      # Le script tourne avec le Python du kit, sans la clé.
+      - name: Vérifier la trace
+        if: inputs.avec_cle
+        shell: uv run python {0}
+        run: |
+          import json
+          import sys
+          from pathlib import Path
+
+          from kit.cle import MOTIF_CLE
+          from kit.reponse import valider
+          from kit.traces import CHAMPS_APPEL, FORMAT_APPEL
+
+          sys.stdout.reconfigure(encoding="utf-8")
+
+          fichiers = sorted((Path("traces") / "appels").glob("*/*.json"))
+          if len(fichiers) != 1:
+              sys.exit(f"ÉCHEC : traces/appels/ contient {len(fichiers)} fichiers, il en faut exactement un.")
+          texte = fichiers[0].read_text(encoding="utf-8")
+          trace = json.loads(texte)
+
+          defauts = []
+          if tuple(trace) != CHAMPS_APPEL:
+              defauts.append("les champs ne sont pas ceux de la liste fermée")
+          if trace.get("format") != FORMAT_APPEL:
+              defauts.append("la version du format n'est pas la bonne")
+          if trace.get("erreur") is not None:
+              defauts.append("la trace porte une erreur")
+          reponse = None
+          try:
+              reponse = valider(trace.get("reponse"))
+          except Exception as erreur:
+              defauts.append(f"la réponse ne respecte pas le contrat ({type(erreur).__name__})")
+          # La question porte sur la forme du tableau, déjà publiée (SPEC § 4) :
+          # l'agent doit répondre, et donner 4 271 lignes.
+          if reponse is not None:
+              if reponse["statut"] != "reponse":
+                  defauts.append(f"le statut de la réponse vaut {reponse['statut']!r}, il faut 'reponse'")
+              try:
+                  nombre = float(reponse["valeur"])
+              except (TypeError, ValueError):
+                  nombre = None
+              if nombre != 4271:
+                  defauts.append(f"la valeur de la réponse vaut {reponse['valeur']!r}, il faut 4271")
+          if not trace.get("etat") or not (Path("traces") / "etats" / str(trace.get("etat"))).is_dir():
+              defauts.append("l'état cité n'est pas dans traces/etats/")
+          if MOTIF_CLE.search(texte):
+              defauts.append("la trace contient ce qui ressemble à une clé d'API")
+          if str(Path.home()) in texte:
+              defauts.append("la trace contient le chemin du dossier personnel")
+
+          if defauts:
+              sys.exit("ÉCHEC : " + " ; ".join(defauts) + ".")
+          print(f"RÉUSSITE : une trace valide, {fichiers[0].name}")
+
+      # La batterie d'exemple : trois questions sur la table inventée, notées
+      # aussitôt. Le code 0 dit que chacune a reçu une réponse conforme au
+      # contrat, juste ou non.
+      - name: uv run kit evaluer --exemple
+        if: inputs.avec_cle
+        env:
+          ALLERGYLAB_CLE: ${{ secrets.ALLERGYLAB_CLE }}
+        run: uv run kit evaluer --exemple

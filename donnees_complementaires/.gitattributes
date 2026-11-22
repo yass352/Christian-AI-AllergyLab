@@ -1,0 +1,4 @@
+# Les fichiers publiés sont recopiés octet pour octet, et les fichiers préparés
+# ont des fins de ligne LF : git ne convertit jamais leurs fins de ligne.
+*.csv binary
+*.pdf binary

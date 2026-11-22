@@ -1,0 +1,24 @@
+# Environnement Python, recréé par uv à chaque `uv run`.
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Fichiers que les systèmes ajoutent d'eux-mêmes.
+.DS_Store
+Thumbs.db
+
+# Jamais de secret dans le dépôt : la clé d'API vit hors de ce dossier.
+.env
+
+# Traces d'execution potentiellement sensibles
+traces/
+
+# Autres fichiers de configuration sensibles
+.env.*
+!.env.example
+
+# Donnees patients : ne pas republier sans verification des droits
+donnees/allergenchipchallenge-data-corrected-final-hdh-sfa.csv
+
+# Dictionnaire source : droits de republication a verifier
+donnees/acc-dictionnaire-final.xls

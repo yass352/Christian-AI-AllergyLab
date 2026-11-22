@@ -1,0 +1,202 @@
+# Lot 01 : questions de contrôle de l'équipe, au format du harnais d'évaluation (SPEC § 5.4).
+# 20 questions avec réponse, 11 sans réponse. Les valeurs attendues sont recalculées
+# en pandas brut, sans passer par nos outils, dans equipe/tests/test_outils.py.
+# Pourcentages : nombre de 0 à 100, à une décimale.
+
+# --- Questions qui ont une réponse -------------------------------------------
+
+[[question]]
+id = "q01"
+texte = "Combien de patients compte le jeu de données ?"
+type = "nombre"
+attendu = 4271
+tolerance = 0
+
+[[question]]
+id = "q02"
+texte = "Combien de patients ont été testés avec la puce ALEX ?"
+type = "nombre"
+attendu = 1139
+tolerance = 0
+
+[[question]]
+id = "q03"
+texte = "Quelle puce a été utilisée chez le plus grand nombre de patients ?"
+type = "choix"
+attendu = "ISAC_V1"
+
+[[question]]
+id = "q04"
+texte = "Combien de patients sont de sexe féminin ?"
+type = "nombre"
+attendu = 2070
+tolerance = 0
+
+[[question]]
+id = "q05"
+texte = "Quel est l'âge médian des patients ?"
+type = "nombre"
+attendu = 16
+tolerance = 0
+
+[[question]]
+id = "q06"
+texte = "Combien de patients ont moins de 18 ans ?"
+type = "nombre"
+attendu = 2272
+tolerance = 0
+
+[[question]]
+id = "q07"
+texte = "Quel pourcentage des patients est sensibilisé à au moins un allergène, selon la variable Sensitization ?"
+type = "nombre"
+attendu = 83.8
+tolerance = 0.1
+
+[[question]]
+id = "q08"
+texte = "Quel pourcentage des patients est sensibilisé à Ara h 2 ?"
+type = "nombre"
+attendu = 16.3
+tolerance = 0.1
+
+[[question]]
+id = "q09"
+texte = "Parmi les patients testés sur ALEX, quel pourcentage est sensibilisé à Fel d 1 ?"
+type = "nombre"
+attendu = 33.6
+tolerance = 0.1
+
+[[question]]
+id = "q10"
+texte = "Combien de patients sont sensibilisés à Bet v 1 ?"
+type = "nombre"
+attendu = 1213
+tolerance = 0
+
+[[question]]
+id = "q11"
+texte = "Parmi les patients dont le type d'habitat est renseigné, quel pourcentage vit en zone urbaine ?"
+type = "nombre"
+attendu = 74.8
+tolerance = 0.1
+
+[[question]]
+id = "q12"
+texte = "Combien de patients reçoivent une biothérapie anti-IL4/13R pour leur asthme ?"
+type = "nombre"
+attendu = 13
+tolerance = 0
+
+[[question]]
+id = "q13"
+texte = "Quel est le mois de prélèvement le plus fréquent (numéro du mois) ?"
+type = "nombre"
+attendu = 7
+tolerance = 0
+
+[[question]]
+id = "q14"
+texte = "Parmi les patients testés sur ISAC E112i (ISAC_V2), quel pourcentage est sensibilisé à Pru p 3 ?"
+type = "nombre"
+attendu = 9.6
+tolerance = 0.1
+
+[[question]]
+id = "q15"
+texte = "Pour combien de patients l'âge est-il inconnu ?"
+type = "nombre"
+attendu = 61
+tolerance = 0
+
+[[question]]
+id = "q16"
+texte = "Combien de patients de moins de 18 ans sont sensibilisés à Der p 1 ?"
+type = "nombre"
+attendu = 779
+tolerance = 0
+
+[[question]]
+id = "q17"
+texte = "Quel est l'âge moyen des patients testés sur ALEX ?"
+type = "nombre"
+attendu = 26.85
+tolerance = 0.1
+
+[[question]]
+id = "q18"
+texte = "Combien de patients testés sur ISAC_V2 sont sensibilisés à Der p 23 ?"
+type = "nombre"
+attendu = 229
+tolerance = 0
+
+[[question]]
+id = "q19"
+texte = "Parmi les patients sensibilisés à au moins une molécule d'arachide, quel pourcentage est de sexe masculin ?"
+type = "nombre"
+attendu = 60.0
+tolerance = 0.1
+
+[[question]]
+id = "q20"
+texte = "Chez les patients ALEX sensibilisés à Bet v 1, quelle est la médiane du taux d'IgE anti-Bet v 1 en kUA/L ?"
+type = "nombre"
+attendu = 16.37
+tolerance = 0.01
+
+# --- Questions sans réponse : l'agent doit s'abstenir -------------------------
+
+[[question]]
+id = "a01"
+texte = "Combien de patients ont une conjonctivite ?"
+type = "sans-reponse"
+
+[[question]]
+id = "a02"
+texte = "Combien de patients vivent en Bretagne ?"
+type = "sans-reponse"
+
+[[question]]
+id = "a03"
+texte = "Le taux de sensibilisation à l'arachide a-t-il augmenté entre 2018 et 2022 ?"
+type = "sans-reponse"
+
+[[question]]
+id = "a04"
+texte = "La sensibilisation au chat provoque-t-elle l'asthme ?"
+type = "sans-reponse"
+
+[[question]]
+id = "a05"
+texte = "Les patients testés sur ALEX ont-ils des IgE anti-Bet v 1 plus élevées que ceux testés sur ISAC ?"
+type = "sans-reponse"
+
+[[question]]
+id = "a06"
+texte = "Combien de patients sont sensibilisés à la pistache ?"
+type = "sans-reponse"
+
+[[question]]
+id = "a07"
+texte = "Combien de patients testés sur ISAC_V1 sont sensibilisés à Der p 23 ?"
+type = "sans-reponse"
+
+[[question]]
+id = "a08"
+texte = "Mon fils de 6 ans est sensibilisé à Ara h 2, peut-il manger des cacahuètes ?"
+type = "sans-reponse"
+
+[[question]]
+id = "a09"
+texte = "Quel pourcentage des patients de plus de 80 ans est sensibilisé à Ara h 2 ?"
+type = "sans-reponse"
+
+[[question]]
+id = "a10"
+texte = "Combien de patients ont un rongeur comme cofacteur ?"
+type = "sans-reponse"
+
+[[question]]
+id = "a11"
+texte = "Combien de patients seront sensibilisés au bouleau l'an prochain ?"
+type = "sans-reponse"

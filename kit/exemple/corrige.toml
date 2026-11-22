@@ -1,0 +1,18 @@
+# Le corrigé de kit/exemple/questions-sans-corrige.toml : pour chaque
+# question, son identifiant, son type, sa valeur attendue et sa tolérance,
+# sans le texte. Il ne sert qu'à uv run kit noter.
+
+[[question]]
+id = "q01"
+type = "nombre"
+attendu = 33
+tolerance = 0.5
+
+[[question]]
+id = "q02"
+type = "choix"
+attendu = ["ISAC_V2", "ISAC V2"]
+
+[[question]]
+id = "q03"
+type = "sans-reponse"

@@ -1,0 +1,21 @@
+# La batterie d'exemple sans son corrigé : un identifiant et un texte par
+# question, rien d'autre. Le harnais d'évaluation la fait passer et
+# l'enregistre, sans noter :
+#
+#   uv run kit evaluer kit/exemple/questions-sans-corrige.toml
+#
+# La notation vient ensuite, avec kit/exemple/corrige.toml :
+#
+#   uv run kit noter <la trace écrite> --corrige kit/exemple/corrige.toml
+
+[[question]]
+id = "q01"
+texte = "Quel est l'âge moyen des patients de la table ?"
+
+[[question]]
+id = "q02"
+texte = "Quel est le type de puce (Chip_Type) du patient le plus âgé de la table ?"
+
+[[question]]
+id = "q03"
+texte = "Quel âge a le patient EX13 ?"

@@ -1,0 +1,14 @@
+colonne,variable_dictionnaire,remarque
+Gender,Sexe,
+Blood_Month_sample,Mois du prélèvement,
+French_Residence_Department,Département de résidence,valeurs anonymisées dans le fichier (deptA…)
+French_Region,Région de France,valeurs anonymisées dans le fichier (regionA…)
+Rural_or_urban_area,Type d'habitat,
+Treatment_of_rhinitis,Traitement rhinite,
+Treatment_of_athsma,Traitement (New) GINA,les codes observés (0 à 10) sont ceux de cette table et non de GINA (ancien)
+Age_of_onsets,Age d'apparition AA,
+General_cofactors,COFACTEURS généraux,
+Treatment_of_atopic_dematitis,Traitement actuel DA,
+Chip_Type,Puce réalisée,le fichier écrit le nom de la puce (ISAC_V1 ISAC_V2 ALEX) et non le code
+Skin_Symptoms,,aucune table du dictionnaire ne porte ce nom ; codes observés 0 1 9 ; lecture à vérifier
+Sensitization,,aucune table du dictionnaire ne porte ce nom ; codes observés 0 1 ; lecture à vérifier

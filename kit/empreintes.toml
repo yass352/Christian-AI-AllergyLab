@@ -1,0 +1,12 @@
+# Empreintes SHA-256 des fichiers de donnees/, tels que leur éditeur les a publiés.
+# `uv run kit controle` recalcule chaque empreinte et la compare à celle-ci :
+# un seul octet changé, une seule fin de ligne convertie, et elles diffèrent.
+
+[fichiers]
+"allergenchipchallenge-data-corrected-final-hdh-sfa.csv" = "56770dec537a267994ea1c8bf3506c84ece01abd486cb0b3e328a226740da53b"
+"acc-dictionnaire-final.xls" = "c737660b437acf84a9e82b1415a14d6449513e750fe3466127a7710797464bd1"
+
+# Forme du tableau que rend kit.donnees.charger().
+[forme]
+lignes = 4271
+colonnes = 256

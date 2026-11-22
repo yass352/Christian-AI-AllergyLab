@@ -1,0 +1,144 @@
+# Banc de test AllergyLab, vendredi 20 novembre 2026.
+#
+#   uv run kit evaluer banc-final-enonces.toml --officielle
+#   uv run kit pousser
+
+[[question]]
+id = "b01"
+texte = "Combien de patients ont un âge égal à 0 ?"
+
+[[question]]
+id = "b02"
+texte = "Combien de patients ont l'effort ou l'activité sportive (code 1) parmi leurs cofacteurs généraux (colonne General_cofactors), que ce cofacteur y figure seul ou associé à d'autres ?"
+
+[[question]]
+id = "b03"
+texte = "Combien de patients du fichier résident en Bretagne ?"
+
+[[question]]
+id = "b04"
+texte = "Combien de patients sont déclarés sans aucun traitement de la rhinite ?"
+
+[[question]]
+id = "b05"
+texte = "Sur quel type de puce le fichier compte-t-il le plus de valeurs de dosage strictement négatives : ISAC_V1, ISAC_V2 ou ALEX ? Réponds par le nom de la puce tel qu'il figure dans la colonne Chip_Type."
+
+[[question]]
+id = "b06"
+texte = "En quelle année a-t-on réalisé le plus de prélèvements ?"
+
+[[question]]
+id = "b07"
+texte = "Combien de patients du fichier ont une allergie confirmée par le clinicien ?"
+
+[[question]]
+id = "b08"
+texte = "Parmi les patients dont le mois de prélèvement est renseigné, quel pourcentage a été prélevé d'avril à juin inclus (mois 4, 5 et 6) ? Réponds par un pourcentage entre 0 et 100, arrondi à une décimale."
+
+[[question]]
+id = "b09"
+texte = "Combien de patients ont strictement moins de 18 ans ? Les patients dont l'âge manque ne sont pas comptés."
+
+[[question]]
+id = "b10"
+texte = "Combien de patients ont un chat ou un chien (ou les deux) parmi leurs cofacteurs généraux (colonne General_cofactors) ?"
+
+[[question]]
+id = "b11"
+texte = "Combien de patients du fichier ont été recrutés au CHU de Bordeaux ?"
+
+[[question]]
+id = "b12"
+texte = "Parmi les cellules de dosage non vides, quel pourcentage vaut exactement 0 ? Réponds par un pourcentage entre 0 et 100, arrondi à une décimale."
+
+[[question]]
+id = "b13"
+texte = "Quel aliment est le plus souvent responsable des allergies alimentaires des patients ?"
+
+[[question]]
+id = "b14"
+texte = "Parmi les patients dont le type d'habitat est renseigné (code 9 exclu), quel pourcentage vit en zone urbaine ? Réponds par un pourcentage entre 0 et 100, arrondi à une décimale."
+
+[[question]]
+id = "b15"
+texte = "Combien de patients ont le code 1 (anti-H1 par voie locale) parmi leurs traitements de la rhinite (colonne Treatment_of_rhinitis), que ce code y figure seul ou dans une liste ?"
+
+[[question]]
+id = "b16"
+texte = "Combien de patients ont été testés sur une puce ISAC E112i ?"
+
+[[question]]
+id = "b17"
+texte = "Quelle est la prévalence de la sensibilisation à Phl_p_1 dans la population française ?"
+
+[[question]]
+id = "b18"
+texte = "Quel est le coefficient de corrélation entre les valeurs de Bet_v_1 mesurées sur ISAC_V1 et sur ALEX chez les mêmes patients ?"
+
+[[question]]
+id = "b19"
+texte = "Parmi les patients de strictement moins de 10 ans (âge manquant exclu), quel pourcentage est positif à Ara_h_2 (dosage strictement supérieur à 0,35) ? Réponds par un pourcentage entre 0 et 100, arrondi à une décimale."
+
+[[question]]
+id = "b20"
+texte = "Combien de départements de résidence (valeurs distinctes de French_Residence_Department) apparaissent associés à au moins deux régions différentes (French_Region) ?"
+
+[[question]]
+id = "b21"
+texte = "Combien de patients ont l'alcool parmi leurs cofacteurs généraux, seul ou associé à d'autres ?"
+
+[[question]]
+id = "b22"
+texte = "Combien de patients ont une rhinite persistante sévère selon la classification ARIA ?"
+
+[[question]]
+id = "b23"
+texte = "Combien de dosages d'IgE le fichier contient-il au total, en comptant toutes les cellules de dosage non vides ?"
+
+[[question]]
+id = "b24"
+texte = "Dans la colonne Skin_Symptoms, que signifie le code 9 : « non renseigné », « sans objet » ou « non » ? Réponds par l'une de ces trois expressions, sans guillemets."
+
+[[question]]
+id = "b25"
+texte = "Sur la puce ISAC_V1, quelle proportion des dosages de Der_p_23 est strictement positive ?"
+
+[[question]]
+id = "b26"
+texte = "Parmi les patients positifs à Bet_v_1 (dosage strictement supérieur à 0,35), quel pourcentage est aussi positif à Mal_d_1 (même seuil) ? Réponds par un pourcentage entre 0 et 100, arrondi à une décimale."
+
+[[question]]
+id = "b27"
+texte = "Pour chaque allergène, on calcule le taux de positivité parmi les seuls patients dont la puce mesure cet allergène (positif = dosage strictement supérieur à 0,35). Quel allergène a le deuxième taux le plus élevé ? Réponds par le nom de la colonne."
+
+[[question]]
+id = "b28"
+texte = "Chez les patients traités, le dupilumab fait-il baisser les IgE anti-acariens ? Réponds oui ou non."
+
+[[question]]
+id = "b29"
+texte = "Combien de patients sont classés sensibilisés (Sensitization = 1) alors qu'aucun de leurs dosages n'est strictement supérieur à 0,35 ?"
+
+[[question]]
+id = "b30"
+texte = "En comptant positif tout dosage supérieur ou égal à 0,3 (une cellule vide ne compte pas comme positive), quel allergène est positif chez le deuxième plus grand nombre de patients ? Réponds par le nom de la colonne."
+
+[[question]]
+id = "b32"
+texte = "On dit qu'un patient est sensibilisé aux acariens si au moins un de ses dosages Der_p_1, Der_p_2, Der_f_1 ou Der_f_2 est strictement supérieur à 0,35. Parmi les patients sensibilisés aux acariens dont le traitement de l'asthme est renseigné (code 9 exclu), quel pourcentage reçoit au moins un traitement de l'asthme (un code autre que 0, seul ou dans une liste) ? Réponds par un pourcentage entre 0 et 100, arrondi à une décimale."
+
+[[question]]
+id = "b33"
+texte = "Quelle est la sensibilité d'Ara_h_2 (valeur strictement supérieure à 0,35) pour l'allergie à l'arachide confirmée par test de provocation orale ?"
+
+[[question]]
+id = "b34"
+texte = "Pour combien de patients toutes les cellules de dosage non vides valent-elles exactement 0 ?"
+
+[[question]]
+id = "b35"
+texte = "Combien de patients du fichier ont un syndrome alpha-gal (allergie à la viande de mammifère) ?"
+
+[[question]]
+id = "b36"
+texte = "On compare, pour Amb_a_1, la proportion de valeurs strictement supérieures à 0 chez les patients prélevés en juillet et chez ceux prélevés un autre mois (mois manquant exclu). Dans combien des trois types de puce cette proportion est-elle plus élevée en juillet ?"

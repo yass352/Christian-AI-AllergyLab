@@ -1,0 +1,972 @@
+taxon,famille,allergenes_acc,annee,indice_pollinique_median,stations
+ailante,pollen d'arbre,Ail_a,1987,0.0,3
+ailante,pollen d'arbre,Ail_a,1988,2.4,9
+ailante,pollen d'arbre,Ail_a,1989,0.0,17
+ailante,pollen d'arbre,Ail_a,1990,0.0,19
+ailante,pollen d'arbre,Ail_a,1991,0.0,25
+ailante,pollen d'arbre,Ail_a,1992,0.0,31
+ailante,pollen d'arbre,Ail_a,1993,0.0,35
+ailante,pollen d'arbre,Ail_a,1994,0.3,30
+ailante,pollen d'arbre,Ail_a,1995,0.0,35
+ailante,pollen d'arbre,Ail_a,1996,0.0,35
+ailante,pollen d'arbre,Ail_a,1997,0.0,40
+ailante,pollen d'arbre,Ail_a,1998,0.6,35
+ailante,pollen d'arbre,Ail_a,1999,0.0,38
+ailante,pollen d'arbre,Ail_a,2000,0.0,39
+ailante,pollen d'arbre,Ail_a,2001,0.0,41
+ailante,pollen d'arbre,Ail_a,2002,0.0,44
+ailante,pollen d'arbre,Ail_a,2003,0.0,48
+ailante,pollen d'arbre,Ail_a,2004,0.0,54
+ailante,pollen d'arbre,Ail_a,2005,0.0,56
+ailante,pollen d'arbre,Ail_a,2006,0.0,60
+ailante,pollen d'arbre,Ail_a,2007,0.0,60
+ailante,pollen d'arbre,Ail_a,2008,0.0,62
+ailante,pollen d'arbre,Ail_a,2009,0.0,64
+ailante,pollen d'arbre,Ail_a,2010,0.0,67
+ailante,pollen d'arbre,Ail_a,2011,0.0,68
+ailante,pollen d'arbre,Ail_a,2012,0.0,69
+ailante,pollen d'arbre,Ail_a,2013,0.0,70
+ailante,pollen d'arbre,Ail_a,2014,0.0,68
+ailante,pollen d'arbre,Ail_a,2015,0.0,68
+ailante,pollen d'arbre,Ail_a,2016,0.0,70
+ailante,pollen d'arbre,Ail_a,2017,0.0,72
+ailante,pollen d'arbre,Ail_a,2018,0.0,71
+ailante,pollen d'arbre,Ail_a,2019,0.0,69
+ailante,pollen d'arbre,Ail_a,2020,0.0,63
+ailante,pollen d'arbre,Ail_a,2021,0.0,70
+ailante,pollen d'arbre,Ail_a,2022,0.7,69
+ailante,pollen d'arbre,Ail_a,2023,0.0,73
+ailante,pollen d'arbre,Ail_a,2024,0.0,62
+alternaria,moisissure,Alt_a,1999,7840.0,1
+alternaria,moisissure,Alt_a,2000,35.0,1
+alternaria,moisissure,Alt_a,2004,7575.0,1
+alternaria,moisissure,Alt_a,2006,5251.0,4
+alternaria,moisissure,Alt_a,2007,14461.5,12
+alternaria,moisissure,Alt_a,2008,13900.0,12
+alternaria,moisissure,Alt_a,2009,13565.0,13
+alternaria,moisissure,Alt_a,2010,11530.5,14
+alternaria,moisissure,Alt_a,2011,16969.0,11
+alternaria,moisissure,Alt_a,2012,7465.0,15
+alternaria,moisissure,Alt_a,2013,11749.0,17
+alternaria,moisissure,Alt_a,2014,15487.7,17
+alternaria,moisissure,Alt_a,2015,7453.0,22
+alternaria,moisissure,Alt_a,2016,17020.4,12
+alternaria,moisissure,Alt_a,2017,7217.5,20
+alternaria,moisissure,Alt_a,2018,5982.9,25
+alternaria,moisissure,Alt_a,2019,14668.2,16
+alternaria,moisissure,Alt_a,2020,9447.4,19
+alternaria,moisissure,Alt_a,2021,0.0,34
+alternaria,moisissure,Alt_a,2022,0.0,38
+alternaria,moisissure,Alt_a,2023,0.0,49
+alternaria,moisissure,Alt_a,2024,0.0,40
+ambroisie,pollen d'herbacée,Amb_a,1987,0.0,3
+ambroisie,pollen d'herbacée,Amb_a,1988,3.0,9
+ambroisie,pollen d'herbacée,Amb_a,1989,0.6,17
+ambroisie,pollen d'herbacée,Amb_a,1990,6.6,19
+ambroisie,pollen d'herbacée,Amb_a,1991,22.0,25
+ambroisie,pollen d'herbacée,Amb_a,1992,22.8,31
+ambroisie,pollen d'herbacée,Amb_a,1993,10.7,35
+ambroisie,pollen d'herbacée,Amb_a,1994,7.0,30
+ambroisie,pollen d'herbacée,Amb_a,1995,12.5,35
+ambroisie,pollen d'herbacée,Amb_a,1996,22.9,35
+ambroisie,pollen d'herbacée,Amb_a,1997,20.0,40
+ambroisie,pollen d'herbacée,Amb_a,1998,15.5,35
+ambroisie,pollen d'herbacée,Amb_a,1999,28.0,38
+ambroisie,pollen d'herbacée,Amb_a,2000,20.0,39
+ambroisie,pollen d'herbacée,Amb_a,2001,19.3,41
+ambroisie,pollen d'herbacée,Amb_a,2002,21.7,44
+ambroisie,pollen d'herbacée,Amb_a,2003,29.3,48
+ambroisie,pollen d'herbacée,Amb_a,2004,27.3,54
+ambroisie,pollen d'herbacée,Amb_a,2005,23.5,56
+ambroisie,pollen d'herbacée,Amb_a,2006,29.5,60
+ambroisie,pollen d'herbacée,Amb_a,2007,20.0,60
+ambroisie,pollen d'herbacée,Amb_a,2008,22.7,62
+ambroisie,pollen d'herbacée,Amb_a,2009,38.9,64
+ambroisie,pollen d'herbacée,Amb_a,2010,31.0,67
+ambroisie,pollen d'herbacée,Amb_a,2011,32.3,68
+ambroisie,pollen d'herbacée,Amb_a,2012,23.3,69
+ambroisie,pollen d'herbacée,Amb_a,2013,24.0,70
+ambroisie,pollen d'herbacée,Amb_a,2014,30.0,68
+ambroisie,pollen d'herbacée,Amb_a,2015,45.3,68
+ambroisie,pollen d'herbacée,Amb_a,2016,40.3,70
+ambroisie,pollen d'herbacée,Amb_a,2017,39.5,72
+ambroisie,pollen d'herbacée,Amb_a,2018,40.3,71
+ambroisie,pollen d'herbacée,Amb_a,2019,22.3,69
+ambroisie,pollen d'herbacée,Amb_a,2020,33.2,63
+ambroisie,pollen d'herbacée,Amb_a,2021,60.0,70
+ambroisie,pollen d'herbacée,Amb_a,2022,36.2,69
+ambroisie,pollen d'herbacée,Amb_a,2023,70.2,73
+ambroisie,pollen d'herbacée,Amb_a,2024,72.8,62
+armoise,pollen d'herbacée,Art_v,1987,208.8,3
+armoise,pollen d'herbacée,Art_v,1988,57.6,9
+armoise,pollen d'herbacée,Art_v,1989,53.6,17
+armoise,pollen d'herbacée,Art_v,1990,85.6,19
+armoise,pollen d'herbacée,Art_v,1991,126.0,25
+armoise,pollen d'herbacée,Art_v,1992,213.5,31
+armoise,pollen d'herbacée,Art_v,1993,121.2,35
+armoise,pollen d'herbacée,Art_v,1994,88.3,30
+armoise,pollen d'herbacée,Art_v,1995,120.4,35
+armoise,pollen d'herbacée,Art_v,1996,87.4,35
+armoise,pollen d'herbacée,Art_v,1997,129.5,40
+armoise,pollen d'herbacée,Art_v,1998,73.8,35
+armoise,pollen d'herbacée,Art_v,1999,77.9,38
+armoise,pollen d'herbacée,Art_v,2000,108.5,39
+armoise,pollen d'herbacée,Art_v,2001,69.4,41
+armoise,pollen d'herbacée,Art_v,2002,56.2,44
+armoise,pollen d'herbacée,Art_v,2003,59.8,48
+armoise,pollen d'herbacée,Art_v,2004,82.7,54
+armoise,pollen d'herbacée,Art_v,2005,74.2,56
+armoise,pollen d'herbacée,Art_v,2006,55.9,60
+armoise,pollen d'herbacée,Art_v,2007,69.2,60
+armoise,pollen d'herbacée,Art_v,2008,56.0,62
+armoise,pollen d'herbacée,Art_v,2009,54.0,64
+armoise,pollen d'herbacée,Art_v,2010,61.1,67
+armoise,pollen d'herbacée,Art_v,2011,83.3,68
+armoise,pollen d'herbacée,Art_v,2012,53.3,69
+armoise,pollen d'herbacée,Art_v,2013,53.0,70
+armoise,pollen d'herbacée,Art_v,2014,52.7,68
+armoise,pollen d'herbacée,Art_v,2015,53.0,68
+armoise,pollen d'herbacée,Art_v,2016,71.9,70
+armoise,pollen d'herbacée,Art_v,2017,45.9,72
+armoise,pollen d'herbacée,Art_v,2018,49.4,71
+armoise,pollen d'herbacée,Art_v,2019,31.4,69
+armoise,pollen d'herbacée,Art_v,2020,28.6,63
+armoise,pollen d'herbacée,Art_v,2021,53.6,70
+armoise,pollen d'herbacée,Art_v,2022,50.6,69
+armoise,pollen d'herbacée,Art_v,2023,41.3,73
+armoise,pollen d'herbacée,Art_v,2024,52.0,62
+aspergillus,moisissure,Asp_f,2010,6231.0,1
+aspergillus,moisissure,Asp_f,2011,14756.0,1
+aspergillus,moisissure,Asp_f,2012,3475.0,3
+aspergillus,moisissure,Asp_f,2013,8091.0,7
+aspergillus,moisissure,Asp_f,2014,14576.8,8
+aspergillus,moisissure,Asp_f,2015,101.2,16
+aspergillus,moisissure,Asp_f,2016,8835.0,9
+aspergillus,moisissure,Asp_f,2017,14120.5,7
+aspergillus,moisissure,Asp_f,2018,20297.9,8
+aspergillus,moisissure,Asp_f,2019,11039.1,8
+aspergillus,moisissure,Asp_f,2020,14221.7,7
+aspergillus,moisissure,Asp_f,2021,0.0,18
+aspergillus,moisissure,Asp_f,2022,0.0,26
+aspergillus,moisissure,Asp_f,2023,0.0,34
+aspergillus,moisissure,Asp_f,2024,0.0,17
+aulne,pollen d'arbre,Aln_g,1987,91.4,3
+aulne,pollen d'arbre,Aln_g,1988,35.6,9
+aulne,pollen d'arbre,Aln_g,1989,64.8,17
+aulne,pollen d'arbre,Aln_g,1990,7.5,19
+aulne,pollen d'arbre,Aln_g,1991,331.2,25
+aulne,pollen d'arbre,Aln_g,1992,964.5,31
+aulne,pollen d'arbre,Aln_g,1993,333.0,35
+aulne,pollen d'arbre,Aln_g,1994,591.5,30
+aulne,pollen d'arbre,Aln_g,1995,287.4,35
+aulne,pollen d'arbre,Aln_g,1996,443.4,35
+aulne,pollen d'arbre,Aln_g,1997,480.0,40
+aulne,pollen d'arbre,Aln_g,1998,347.3,35
+aulne,pollen d'arbre,Aln_g,1999,347.7,38
+aulne,pollen d'arbre,Aln_g,2000,237.3,39
+aulne,pollen d'arbre,Aln_g,2001,651.2,41
+aulne,pollen d'arbre,Aln_g,2002,194.4,44
+aulne,pollen d'arbre,Aln_g,2003,521.8,48
+aulne,pollen d'arbre,Aln_g,2004,1248.5,54
+aulne,pollen d'arbre,Aln_g,2005,490.6,56
+aulne,pollen d'arbre,Aln_g,2006,1560.9,60
+aulne,pollen d'arbre,Aln_g,2007,278.2,60
+aulne,pollen d'arbre,Aln_g,2008,1210.8,62
+aulne,pollen d'arbre,Aln_g,2009,1039.1,64
+aulne,pollen d'arbre,Aln_g,2010,1109.0,67
+aulne,pollen d'arbre,Aln_g,2011,1124.8,68
+aulne,pollen d'arbre,Aln_g,2012,1443.4,69
+aulne,pollen d'arbre,Aln_g,2013,1594.2,70
+aulne,pollen d'arbre,Aln_g,2014,751.5,68
+aulne,pollen d'arbre,Aln_g,2015,711.8,68
+aulne,pollen d'arbre,Aln_g,2016,2225.0,70
+aulne,pollen d'arbre,Aln_g,2017,1084.0,72
+aulne,pollen d'arbre,Aln_g,2018,1679.1,71
+aulne,pollen d'arbre,Aln_g,2019,1705.8,69
+aulne,pollen d'arbre,Aln_g,2020,928.3,63
+aulne,pollen d'arbre,Aln_g,2021,1058.2,70
+aulne,pollen d'arbre,Aln_g,2022,1799.3,69
+aulne,pollen d'arbre,Aln_g,2023,1978.3,73
+aulne,pollen d'arbre,Aln_g,2024,1478.3,62
+bouleau,pollen d'arbre,Bet_v,1987,3110.0,3
+bouleau,pollen d'arbre,Bet_v,1988,354.0,9
+bouleau,pollen d'arbre,Bet_v,1989,1137.6,17
+bouleau,pollen d'arbre,Bet_v,1990,1421.0,19
+bouleau,pollen d'arbre,Bet_v,1991,858.4,25
+bouleau,pollen d'arbre,Bet_v,1992,1376.4,31
+bouleau,pollen d'arbre,Bet_v,1993,517.1,35
+bouleau,pollen d'arbre,Bet_v,1994,766.1,30
+bouleau,pollen d'arbre,Bet_v,1995,1825.7,35
+bouleau,pollen d'arbre,Bet_v,1996,1501.0,35
+bouleau,pollen d'arbre,Bet_v,1997,2162.2,40
+bouleau,pollen d'arbre,Bet_v,1998,562.0,35
+bouleau,pollen d'arbre,Bet_v,1999,2363.4,38
+bouleau,pollen d'arbre,Bet_v,2000,874.7,39
+bouleau,pollen d'arbre,Bet_v,2001,1592.6,41
+bouleau,pollen d'arbre,Bet_v,2002,2345.0,44
+bouleau,pollen d'arbre,Bet_v,2003,2050.4,48
+bouleau,pollen d'arbre,Bet_v,2004,1926.8,54
+bouleau,pollen d'arbre,Bet_v,2005,1978.8,56
+bouleau,pollen d'arbre,Bet_v,2006,1996.6,60
+bouleau,pollen d'arbre,Bet_v,2007,2440.2,60
+bouleau,pollen d'arbre,Bet_v,2008,786.1,62
+bouleau,pollen d'arbre,Bet_v,2009,1463.7,64
+bouleau,pollen d'arbre,Bet_v,2010,2445.0,67
+bouleau,pollen d'arbre,Bet_v,2011,1648.4,68
+bouleau,pollen d'arbre,Bet_v,2012,1241.0,69
+bouleau,pollen d'arbre,Bet_v,2013,1881.1,70
+bouleau,pollen d'arbre,Bet_v,2014,2011.7,68
+bouleau,pollen d'arbre,Bet_v,2015,1851.2,68
+bouleau,pollen d'arbre,Bet_v,2016,2046.3,70
+bouleau,pollen d'arbre,Bet_v,2017,1687.1,72
+bouleau,pollen d'arbre,Bet_v,2018,4522.0,71
+bouleau,pollen d'arbre,Bet_v,2019,1006.6,69
+bouleau,pollen d'arbre,Bet_v,2020,434.2,63
+bouleau,pollen d'arbre,Bet_v,2021,1051.9,70
+bouleau,pollen d'arbre,Bet_v,2022,3012.4,69
+bouleau,pollen d'arbre,Bet_v,2023,1060.4,73
+bouleau,pollen d'arbre,Bet_v,2024,1375.4,62
+charme,pollen d'arbre,,1987,352.0,3
+charme,pollen d'arbre,,1988,21.1,9
+charme,pollen d'arbre,,1989,69.4,17
+charme,pollen d'arbre,,1990,51.3,19
+charme,pollen d'arbre,,1991,49.6,25
+charme,pollen d'arbre,,1992,61.8,31
+charme,pollen d'arbre,,1993,31.6,35
+charme,pollen d'arbre,,1994,33.4,30
+charme,pollen d'arbre,,1995,463.1,35
+charme,pollen d'arbre,,1996,69.4,35
+charme,pollen d'arbre,,1997,83.6,40
+charme,pollen d'arbre,,1998,97.4,35
+charme,pollen d'arbre,,1999,136.3,38
+charme,pollen d'arbre,,2000,81.5,39
+charme,pollen d'arbre,,2001,49.5,41
+charme,pollen d'arbre,,2002,280.5,44
+charme,pollen d'arbre,,2003,102.8,48
+charme,pollen d'arbre,,2004,497.3,54
+charme,pollen d'arbre,,2005,9.6,56
+charme,pollen d'arbre,,2006,213.7,60
+charme,pollen d'arbre,,2007,284.2,60
+charme,pollen d'arbre,,2008,26.3,62
+charme,pollen d'arbre,,2009,395.0,64
+charme,pollen d'arbre,,2010,157.1,67
+charme,pollen d'arbre,,2011,130.2,68
+charme,pollen d'arbre,,2012,318.4,69
+charme,pollen d'arbre,,2013,144.2,70
+charme,pollen d'arbre,,2014,259.1,68
+charme,pollen d'arbre,,2015,169.3,68
+charme,pollen d'arbre,,2016,620.7,70
+charme,pollen d'arbre,,2017,19.0,72
+charme,pollen d'arbre,,2018,241.2,71
+charme,pollen d'arbre,,2019,371.3,69
+charme,pollen d'arbre,,2020,49.8,63
+charme,pollen d'arbre,,2021,229.9,70
+charme,pollen d'arbre,,2022,59.0,69
+charme,pollen d'arbre,,2023,677.2,73
+charme,pollen d'arbre,,2024,33.9,62
+châtaignier,pollen d'arbre,,1987,892.1,3
+châtaignier,pollen d'arbre,,1988,477.6,9
+châtaignier,pollen d'arbre,,1989,1547.6,17
+châtaignier,pollen d'arbre,,1990,1233.4,19
+châtaignier,pollen d'arbre,,1991,579.2,25
+châtaignier,pollen d'arbre,,1992,762.4,31
+châtaignier,pollen d'arbre,,1993,688.9,35
+châtaignier,pollen d'arbre,,1994,747.2,30
+châtaignier,pollen d'arbre,,1995,987.6,35
+châtaignier,pollen d'arbre,,1996,1398.6,35
+châtaignier,pollen d'arbre,,1997,826.7,40
+châtaignier,pollen d'arbre,,1998,996.0,35
+châtaignier,pollen d'arbre,,1999,1529.2,38
+châtaignier,pollen d'arbre,,2000,1305.1,39
+châtaignier,pollen d'arbre,,2001,1073.3,41
+châtaignier,pollen d'arbre,,2002,1313.8,44
+châtaignier,pollen d'arbre,,2003,1221.5,48
+châtaignier,pollen d'arbre,,2004,1471.6,54
+châtaignier,pollen d'arbre,,2005,1141.8,56
+châtaignier,pollen d'arbre,,2006,912.3,60
+châtaignier,pollen d'arbre,,2007,759.1,60
+châtaignier,pollen d'arbre,,2008,810.4,62
+châtaignier,pollen d'arbre,,2009,1150.1,64
+châtaignier,pollen d'arbre,,2010,975.5,67
+châtaignier,pollen d'arbre,,2011,1174.8,68
+châtaignier,pollen d'arbre,,2012,959.0,69
+châtaignier,pollen d'arbre,,2013,1187.0,70
+châtaignier,pollen d'arbre,,2014,727.7,68
+châtaignier,pollen d'arbre,,2015,1158.1,68
+châtaignier,pollen d'arbre,,2016,1490.1,70
+châtaignier,pollen d'arbre,,2017,1788.7,72
+châtaignier,pollen d'arbre,,2018,1458.6,71
+châtaignier,pollen d'arbre,,2019,1237.8,69
+châtaignier,pollen d'arbre,,2020,992.9,63
+châtaignier,pollen d'arbre,,2021,603.4,70
+châtaignier,pollen d'arbre,,2022,661.2,69
+châtaignier,pollen d'arbre,,2023,1162.2,73
+châtaignier,pollen d'arbre,,2024,793.9,62
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1987,31.5,3
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1988,50.9,9
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1989,71.6,17
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1990,67.1,19
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1991,111.6,25
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1992,95.0,31
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1993,77.0,35
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1994,122.2,30
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1995,146.7,35
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1996,92.3,35
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1997,147.2,40
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1998,88.9,35
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,1999,99.7,38
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2000,92.3,39
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2001,86.3,41
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2002,73.3,44
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2003,202.0,48
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2004,88.6,54
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2005,93.0,56
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2006,104.2,60
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2007,61.8,60
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2008,66.4,62
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2009,91.3,64
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2010,69.3,67
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2011,106.7,68
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2012,86.0,69
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2013,61.8,70
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2014,55.4,68
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2015,107.0,68
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2016,60.9,70
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2017,82.8,72
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2018,93.1,71
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2019,52.3,69
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2020,40.3,63
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2021,36.4,70
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2022,100.8,69
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2023,54.8,73
+chénopodiacées,pollen d'herbacée,Che_a Sal_k,2024,32.1,62
+chêne,pollen d'arbre,,1987,995.1,3
+chêne,pollen d'arbre,,1988,805.7,9
+chêne,pollen d'arbre,,1989,2631.0,17
+chêne,pollen d'arbre,,1990,952.0,19
+chêne,pollen d'arbre,,1991,1657.0,25
+chêne,pollen d'arbre,,1992,3282.4,31
+chêne,pollen d'arbre,,1993,2223.2,35
+chêne,pollen d'arbre,,1994,1143.5,30
+chêne,pollen d'arbre,,1995,4146.0,35
+chêne,pollen d'arbre,,1996,2393.9,35
+chêne,pollen d'arbre,,1997,2660.6,40
+chêne,pollen d'arbre,,1998,2654.7,35
+chêne,pollen d'arbre,,1999,2338.1,38
+chêne,pollen d'arbre,,2000,2209.6,39
+chêne,pollen d'arbre,,2001,2545.4,41
+chêne,pollen d'arbre,,2002,3143.4,44
+chêne,pollen d'arbre,,2003,3963.7,48
+chêne,pollen d'arbre,,2004,1589.8,54
+chêne,pollen d'arbre,,2005,3544.6,56
+chêne,pollen d'arbre,,2006,2227.1,60
+chêne,pollen d'arbre,,2007,4052.9,60
+chêne,pollen d'arbre,,2008,2296.2,62
+chêne,pollen d'arbre,,2009,4650.5,64
+chêne,pollen d'arbre,,2010,2961.1,67
+chêne,pollen d'arbre,,2011,5023.0,68
+chêne,pollen d'arbre,,2012,2463.5,69
+chêne,pollen d'arbre,,2013,3386.5,70
+chêne,pollen d'arbre,,2014,3659.4,68
+chêne,pollen d'arbre,,2015,3580.1,68
+chêne,pollen d'arbre,,2016,2369.8,70
+chêne,pollen d'arbre,,2017,3956.4,72
+chêne,pollen d'arbre,,2018,3944.0,71
+chêne,pollen d'arbre,,2019,2640.0,69
+chêne,pollen d'arbre,,2020,592.4,63
+chêne,pollen d'arbre,,2021,2258.2,70
+chêne,pollen d'arbre,,2022,5722.6,69
+chêne,pollen d'arbre,,2023,2348.9,73
+chêne,pollen d'arbre,,2024,3674.8,62
+cladosporium,moisissure,Cla_h,1999,70175.0,1
+cladosporium,moisissure,Cla_h,2000,1080.0,1
+cladosporium,moisissure,Cla_h,2004,20510.0,1
+cladosporium,moisissure,Cla_h,2006,134430.0,4
+cladosporium,moisissure,Cla_h,2007,203754.0,12
+cladosporium,moisissure,Cla_h,2008,392932.8,12
+cladosporium,moisissure,Cla_h,2009,360438.0,13
+cladosporium,moisissure,Cla_h,2010,345907.0,14
+cladosporium,moisissure,Cla_h,2011,616661.0,11
+cladosporium,moisissure,Cla_h,2012,390775.0,15
+cladosporium,moisissure,Cla_h,2013,392698.0,19
+cladosporium,moisissure,Cla_h,2014,337420.0,17
+cladosporium,moisissure,Cla_h,2015,343533.5,22
+cladosporium,moisissure,Cla_h,2016,408820.7,12
+cladosporium,moisissure,Cla_h,2017,178703.4,20
+cladosporium,moisissure,Cla_h,2018,94143.8,25
+cladosporium,moisissure,Cla_h,2019,343371.1,16
+cladosporium,moisissure,Cla_h,2020,310090.2,19
+cladosporium,moisissure,Cla_h,2021,0.0,34
+cladosporium,moisissure,Cla_h,2022,0.0,38
+cladosporium,moisissure,Cla_h,2023,0.0,49
+cladosporium,moisissure,Cla_h,2024,0.0,40
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1987,559.6,3
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1988,732.6,9
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1989,1855.0,17
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1990,283.8,19
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1991,1032.0,25
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1992,2139.0,31
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1993,888.9,35
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1994,1531.0,30
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1995,1854.6,35
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1996,2690.0,35
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1997,1487.8,40
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1998,1889.5,35
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,1999,1977.3,38
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2000,1661.7,39
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2001,1834.0,41
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2002,2262.1,44
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2003,3204.9,48
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2004,3754.0,54
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2005,3119.1,56
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2006,3473.1,60
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2007,2594.0,60
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2008,2751.5,62
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2009,3814.2,64
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2010,3898.2,67
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2011,4209.6,68
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2012,3050.7,69
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2013,3377.9,70
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2014,3572.0,68
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2015,4661.1,68
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2016,3473.0,70
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2017,3154.2,72
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2018,3272.2,71
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2019,3785.2,69
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2020,1799.3,63
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2021,3328.8,70
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2022,4139.4,69
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2023,3832.8,73
+cupressacées (cyprès),pollen d'arbre,Cup_a Cup_s Cry_j Jun_a,2024,3856.5,62
+frêne,pollen d'arbre,Fra_e,1987,80.8,3
+frêne,pollen d'arbre,Fra_e,1988,621.0,9
+frêne,pollen d'arbre,Fra_e,1989,663.1,17
+frêne,pollen d'arbre,Fra_e,1990,815.5,19
+frêne,pollen d'arbre,Fra_e,1991,1395.4,25
+frêne,pollen d'arbre,Fra_e,1992,1026.0,31
+frêne,pollen d'arbre,Fra_e,1993,504.0,35
+frêne,pollen d'arbre,Fra_e,1994,1172.8,30
+frêne,pollen d'arbre,Fra_e,1995,955.2,35
+frêne,pollen d'arbre,Fra_e,1996,1701.9,35
+frêne,pollen d'arbre,Fra_e,1997,1034.0,40
+frêne,pollen d'arbre,Fra_e,1998,1732.9,35
+frêne,pollen d'arbre,Fra_e,1999,1190.6,38
+frêne,pollen d'arbre,Fra_e,2000,1302.8,39
+frêne,pollen d'arbre,Fra_e,2001,1001.1,41
+frêne,pollen d'arbre,Fra_e,2002,1519.4,44
+frêne,pollen d'arbre,Fra_e,2003,2241.3,48
+frêne,pollen d'arbre,Fra_e,2004,1660.7,54
+frêne,pollen d'arbre,Fra_e,2005,638.0,56
+frêne,pollen d'arbre,Fra_e,2006,2388.3,60
+frêne,pollen d'arbre,Fra_e,2007,629.3,60
+frêne,pollen d'arbre,Fra_e,2008,1609.8,62
+frêne,pollen d'arbre,Fra_e,2009,1193.9,64
+frêne,pollen d'arbre,Fra_e,2010,1845.9,67
+frêne,pollen d'arbre,Fra_e,2011,2134.0,68
+frêne,pollen d'arbre,Fra_e,2012,2477.3,69
+frêne,pollen d'arbre,Fra_e,2013,2385.2,70
+frêne,pollen d'arbre,Fra_e,2014,535.7,68
+frêne,pollen d'arbre,Fra_e,2015,2717.5,68
+frêne,pollen d'arbre,Fra_e,2016,1006.1,70
+frêne,pollen d'arbre,Fra_e,2017,1148.2,72
+frêne,pollen d'arbre,Fra_e,2018,2389.1,71
+frêne,pollen d'arbre,Fra_e,2019,505.0,69
+frêne,pollen d'arbre,Fra_e,2020,919.9,63
+frêne,pollen d'arbre,Fra_e,2021,1205.4,70
+frêne,pollen d'arbre,Fra_e,2022,2675.3,69
+frêne,pollen d'arbre,Fra_e,2023,1738.3,73
+frêne,pollen d'arbre,Fra_e,2024,1775.6,62
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1987,1883.1,3
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1988,3267.5,9
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1989,3278.3,17
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1990,2245.8,19
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1991,2112.2,25
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1992,2425.8,31
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1993,3627.2,35
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1994,4068.7,30
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1995,5014.8,35
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1996,4785.8,35
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1997,3411.4,40
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1998,4440.0,35
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,1999,4525.6,38
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2000,5192.4,39
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2001,6279.1,41
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2002,5177.5,44
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2003,4808.2,48
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2004,4208.0,54
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2005,4518.2,56
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2006,3482.9,60
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2007,3637.7,60
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2008,3157.6,62
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2009,3525.9,64
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2010,2602.4,67
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2011,2446.0,68
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2012,3298.6,69
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2013,4140.1,70
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2014,3490.4,68
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2015,4388.5,68
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2016,4173.0,70
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2017,2927.5,72
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2018,3372.7,71
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2019,2763.2,69
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2020,2257.2,63
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2021,3451.1,70
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2022,3868.0,69
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2023,4161.2,73
+graminées,pollen de graminée,Phl_p Cyn_d Lol_p Lol_spp.,2024,4396.9,62
+hêtre,pollen d'arbre,Fag_s,1987,37.4,3
+hêtre,pollen d'arbre,Fag_s,1988,1.2,9
+hêtre,pollen d'arbre,Fag_s,1989,29.4,17
+hêtre,pollen d'arbre,Fag_s,1990,35.4,19
+hêtre,pollen d'arbre,Fag_s,1991,17.2,25
+hêtre,pollen d'arbre,Fag_s,1992,48.6,31
+hêtre,pollen d'arbre,Fag_s,1993,13.2,35
+hêtre,pollen d'arbre,Fag_s,1994,29.1,30
+hêtre,pollen d'arbre,Fag_s,1995,272.0,35
+hêtre,pollen d'arbre,Fag_s,1996,7.9,35
+hêtre,pollen d'arbre,Fag_s,1997,29.6,40
+hêtre,pollen d'arbre,Fag_s,1998,19.9,35
+hêtre,pollen d'arbre,Fag_s,1999,92.5,38
+hêtre,pollen d'arbre,Fag_s,2000,14.4,39
+hêtre,pollen d'arbre,Fag_s,2001,33.4,41
+hêtre,pollen d'arbre,Fag_s,2002,95.9,44
+hêtre,pollen d'arbre,Fag_s,2003,24.2,48
+hêtre,pollen d'arbre,Fag_s,2004,215.6,54
+hêtre,pollen d'arbre,Fag_s,2005,3.2,56
+hêtre,pollen d'arbre,Fag_s,2006,88.9,60
+hêtre,pollen d'arbre,Fag_s,2007,32.3,60
+hêtre,pollen d'arbre,Fag_s,2008,4.0,62
+hêtre,pollen d'arbre,Fag_s,2009,135.0,64
+hêtre,pollen d'arbre,Fag_s,2010,18.7,67
+hêtre,pollen d'arbre,Fag_s,2011,216.3,68
+hêtre,pollen d'arbre,Fag_s,2012,3.4,69
+hêtre,pollen d'arbre,Fag_s,2013,87.7,70
+hêtre,pollen d'arbre,Fag_s,2014,119.0,68
+hêtre,pollen d'arbre,Fag_s,2015,13.0,68
+hêtre,pollen d'arbre,Fag_s,2016,437.3,70
+hêtre,pollen d'arbre,Fag_s,2017,4.4,72
+hêtre,pollen d'arbre,Fag_s,2018,90.7,71
+hêtre,pollen d'arbre,Fag_s,2019,9.8,69
+hêtre,pollen d'arbre,Fag_s,2020,15.8,63
+hêtre,pollen d'arbre,Fag_s,2021,2.8,70
+hêtre,pollen d'arbre,Fag_s,2022,44.3,69
+hêtre,pollen d'arbre,Fag_s,2023,203.7,73
+hêtre,pollen d'arbre,Fag_s,2024,9.4,62
+mercuriale,pollen d'herbacée,Mer_a,1987,2.5,3
+mercuriale,pollen d'herbacée,Mer_a,1988,93.1,9
+mercuriale,pollen d'herbacée,Mer_a,1989,73.8,17
+mercuriale,pollen d'herbacée,Mer_a,1990,63.3,19
+mercuriale,pollen d'herbacée,Mer_a,1991,64.2,25
+mercuriale,pollen d'herbacée,Mer_a,1992,148.3,31
+mercuriale,pollen d'herbacée,Mer_a,1993,102.4,35
+mercuriale,pollen d'herbacée,Mer_a,1994,119.9,30
+mercuriale,pollen d'herbacée,Mer_a,1995,147.1,35
+mercuriale,pollen d'herbacée,Mer_a,1996,109.8,35
+mercuriale,pollen d'herbacée,Mer_a,1997,137.5,40
+mercuriale,pollen d'herbacée,Mer_a,1998,85.0,35
+mercuriale,pollen d'herbacée,Mer_a,1999,128.5,38
+mercuriale,pollen d'herbacée,Mer_a,2000,135.7,39
+mercuriale,pollen d'herbacée,Mer_a,2001,94.3,41
+mercuriale,pollen d'herbacée,Mer_a,2002,118.1,44
+mercuriale,pollen d'herbacée,Mer_a,2003,95.8,48
+mercuriale,pollen d'herbacée,Mer_a,2004,137.8,54
+mercuriale,pollen d'herbacée,Mer_a,2005,88.0,56
+mercuriale,pollen d'herbacée,Mer_a,2006,124.8,60
+mercuriale,pollen d'herbacée,Mer_a,2007,129.8,60
+mercuriale,pollen d'herbacée,Mer_a,2008,79.3,62
+mercuriale,pollen d'herbacée,Mer_a,2009,90.7,64
+mercuriale,pollen d'herbacée,Mer_a,2010,81.9,67
+mercuriale,pollen d'herbacée,Mer_a,2011,161.4,68
+mercuriale,pollen d'herbacée,Mer_a,2012,79.5,69
+mercuriale,pollen d'herbacée,Mer_a,2013,80.7,70
+mercuriale,pollen d'herbacée,Mer_a,2014,99.9,68
+mercuriale,pollen d'herbacée,Mer_a,2015,85.1,68
+mercuriale,pollen d'herbacée,Mer_a,2016,89.0,70
+mercuriale,pollen d'herbacée,Mer_a,2017,80.0,72
+mercuriale,pollen d'herbacée,Mer_a,2018,78.8,71
+mercuriale,pollen d'herbacée,Mer_a,2019,43.4,69
+mercuriale,pollen d'herbacée,Mer_a,2020,53.2,63
+mercuriale,pollen d'herbacée,Mer_a,2021,69.1,70
+mercuriale,pollen d'herbacée,Mer_a,2022,57.0,69
+mercuriale,pollen d'herbacée,Mer_a,2023,78.6,73
+mercuriale,pollen d'herbacée,Mer_a,2024,61.7,62
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1987,28.0,3
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1988,51.3,9
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1989,23.5,17
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1990,7.2,19
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1991,198.0,25
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1992,341.0,31
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1993,180.0,35
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1994,277.0,30
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1995,257.8,35
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1996,271.2,35
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1997,113.7,40
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1998,89.2,35
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,1999,265.3,38
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2000,66.1,39
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2001,119.0,41
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2002,204.0,44
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2003,252.5,48
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2004,406.4,54
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2005,206.8,56
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2006,646.2,60
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2007,176.0,60
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2008,167.1,62
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2009,663.6,64
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2010,333.0,67
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2011,578.9,68
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2012,477.2,69
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2013,615.0,70
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2014,300.1,68
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2015,357.3,68
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2016,511.5,70
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2017,301.7,72
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2018,453.2,71
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2019,862.8,69
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2020,142.9,63
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2021,280.2,70
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2022,661.1,69
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2023,1109.3,73
+noisetier,pollen d'arbre,Cor_a_1.0101 Cor_a_1.0103 Cor_a_pollen,2024,325.1,62
+noyer,pollen d'arbre,Jug_r_pollen,1987,5.0,3
+noyer,pollen d'arbre,Jug_r_pollen,1988,9.6,9
+noyer,pollen d'arbre,Jug_r_pollen,1989,1.0,17
+noyer,pollen d'arbre,Jug_r_pollen,1990,8.8,19
+noyer,pollen d'arbre,Jug_r_pollen,1991,10.2,25
+noyer,pollen d'arbre,Jug_r_pollen,1992,20.4,31
+noyer,pollen d'arbre,Jug_r_pollen,1993,10.0,35
+noyer,pollen d'arbre,Jug_r_pollen,1994,15.5,30
+noyer,pollen d'arbre,Jug_r_pollen,1995,21.0,35
+noyer,pollen d'arbre,Jug_r_pollen,1996,14.0,35
+noyer,pollen d'arbre,Jug_r_pollen,1997,22.4,40
+noyer,pollen d'arbre,Jug_r_pollen,1998,8.0,35
+noyer,pollen d'arbre,Jug_r_pollen,1999,13.4,38
+noyer,pollen d'arbre,Jug_r_pollen,2000,13.2,39
+noyer,pollen d'arbre,Jug_r_pollen,2001,12.9,41
+noyer,pollen d'arbre,Jug_r_pollen,2002,31.7,44
+noyer,pollen d'arbre,Jug_r_pollen,2003,15.3,48
+noyer,pollen d'arbre,Jug_r_pollen,2004,41.0,54
+noyer,pollen d'arbre,Jug_r_pollen,2005,26.9,56
+noyer,pollen d'arbre,Jug_r_pollen,2006,26.0,60
+noyer,pollen d'arbre,Jug_r_pollen,2007,39.2,60
+noyer,pollen d'arbre,Jug_r_pollen,2008,17.7,62
+noyer,pollen d'arbre,Jug_r_pollen,2009,44.1,64
+noyer,pollen d'arbre,Jug_r_pollen,2010,30.2,67
+noyer,pollen d'arbre,Jug_r_pollen,2011,49.9,68
+noyer,pollen d'arbre,Jug_r_pollen,2012,28.1,69
+noyer,pollen d'arbre,Jug_r_pollen,2013,34.3,70
+noyer,pollen d'arbre,Jug_r_pollen,2014,39.2,68
+noyer,pollen d'arbre,Jug_r_pollen,2015,29.1,68
+noyer,pollen d'arbre,Jug_r_pollen,2016,50.2,70
+noyer,pollen d'arbre,Jug_r_pollen,2017,17.6,72
+noyer,pollen d'arbre,Jug_r_pollen,2018,56.4,71
+noyer,pollen d'arbre,Jug_r_pollen,2019,22.7,69
+noyer,pollen d'arbre,Jug_r_pollen,2020,6.5,63
+noyer,pollen d'arbre,Jug_r_pollen,2021,15.0,70
+noyer,pollen d'arbre,Jug_r_pollen,2022,56.9,69
+noyer,pollen d'arbre,Jug_r_pollen,2023,40.1,73
+noyer,pollen d'arbre,Jug_r_pollen,2024,32.3,62
+olivier,pollen d'arbre,Ole_e,1987,0.0,3
+olivier,pollen d'arbre,Ole_e,1988,0.0,9
+olivier,pollen d'arbre,Ole_e,1989,0.6,17
+olivier,pollen d'arbre,Ole_e,1990,1.2,19
+olivier,pollen d'arbre,Ole_e,1991,0.0,25
+olivier,pollen d'arbre,Ole_e,1992,1.3,31
+olivier,pollen d'arbre,Ole_e,1993,3.6,35
+olivier,pollen d'arbre,Ole_e,1994,16.5,30
+olivier,pollen d'arbre,Ole_e,1995,4.3,35
+olivier,pollen d'arbre,Ole_e,1996,3.0,35
+olivier,pollen d'arbre,Ole_e,1997,23.6,40
+olivier,pollen d'arbre,Ole_e,1998,12.6,35
+olivier,pollen d'arbre,Ole_e,1999,34.4,38
+olivier,pollen d'arbre,Ole_e,2000,4.3,39
+olivier,pollen d'arbre,Ole_e,2001,5.3,41
+olivier,pollen d'arbre,Ole_e,2002,10.0,44
+olivier,pollen d'arbre,Ole_e,2003,9.1,48
+olivier,pollen d'arbre,Ole_e,2004,6.9,54
+olivier,pollen d'arbre,Ole_e,2005,20.3,56
+olivier,pollen d'arbre,Ole_e,2006,7.5,60
+olivier,pollen d'arbre,Ole_e,2007,11.6,60
+olivier,pollen d'arbre,Ole_e,2008,9.1,62
+olivier,pollen d'arbre,Ole_e,2009,53.4,64
+olivier,pollen d'arbre,Ole_e,2010,14.0,67
+olivier,pollen d'arbre,Ole_e,2011,9.0,68
+olivier,pollen d'arbre,Ole_e,2012,12.6,69
+olivier,pollen d'arbre,Ole_e,2013,48.5,70
+olivier,pollen d'arbre,Ole_e,2014,21.5,68
+olivier,pollen d'arbre,Ole_e,2015,22.1,68
+olivier,pollen d'arbre,Ole_e,2016,43.7,70
+olivier,pollen d'arbre,Ole_e,2017,36.9,72
+olivier,pollen d'arbre,Ole_e,2018,19.8,71
+olivier,pollen d'arbre,Ole_e,2019,29.1,69
+olivier,pollen d'arbre,Ole_e,2020,4.8,63
+olivier,pollen d'arbre,Ole_e,2021,31.4,70
+olivier,pollen d'arbre,Ole_e,2022,49.8,69
+olivier,pollen d'arbre,Ole_e,2023,65.0,73
+olivier,pollen d'arbre,Ole_e,2024,34.1,62
+oseille (rumex),pollen d'herbacée,,1987,164.3,3
+oseille (rumex),pollen d'herbacée,,1988,248.9,9
+oseille (rumex),pollen d'herbacée,,1989,254.5,17
+oseille (rumex),pollen d'herbacée,,1990,128.4,19
+oseille (rumex),pollen d'herbacée,,1991,204.1,25
+oseille (rumex),pollen d'herbacée,,1992,216.8,31
+oseille (rumex),pollen d'herbacée,,1993,302.0,35
+oseille (rumex),pollen d'herbacée,,1994,215.8,30
+oseille (rumex),pollen d'herbacée,,1995,257.6,35
+oseille (rumex),pollen d'herbacée,,1996,285.9,35
+oseille (rumex),pollen d'herbacée,,1997,232.9,40
+oseille (rumex),pollen d'herbacée,,1998,289.5,35
+oseille (rumex),pollen d'herbacée,,1999,270.8,38
+oseille (rumex),pollen d'herbacée,,2000,239.2,39
+oseille (rumex),pollen d'herbacée,,2001,300.7,41
+oseille (rumex),pollen d'herbacée,,2002,273.9,44
+oseille (rumex),pollen d'herbacée,,2003,311.7,48
+oseille (rumex),pollen d'herbacée,,2004,280.8,54
+oseille (rumex),pollen d'herbacée,,2005,296.8,56
+oseille (rumex),pollen d'herbacée,,2006,299.3,60
+oseille (rumex),pollen d'herbacée,,2007,272.9,60
+oseille (rumex),pollen d'herbacée,,2008,217.8,62
+oseille (rumex),pollen d'herbacée,,2009,216.9,64
+oseille (rumex),pollen d'herbacée,,2010,210.9,67
+oseille (rumex),pollen d'herbacée,,2011,229.9,68
+oseille (rumex),pollen d'herbacée,,2012,273.4,69
+oseille (rumex),pollen d'herbacée,,2013,224.2,70
+oseille (rumex),pollen d'herbacée,,2014,193.1,68
+oseille (rumex),pollen d'herbacée,,2015,299.8,68
+oseille (rumex),pollen d'herbacée,,2016,258.7,70
+oseille (rumex),pollen d'herbacée,,2017,204.5,72
+oseille (rumex),pollen d'herbacée,,2018,250.6,71
+oseille (rumex),pollen d'herbacée,,2019,202.6,69
+oseille (rumex),pollen d'herbacée,,2020,75.4,63
+oseille (rumex),pollen d'herbacée,,2021,177.6,70
+oseille (rumex),pollen d'herbacée,,2022,234.9,69
+oseille (rumex),pollen d'herbacée,,2023,239.2,73
+oseille (rumex),pollen d'herbacée,,2024,240.4,62
+peuplier,pollen d'arbre,,1987,115.2,3
+peuplier,pollen d'arbre,,1988,151.2,9
+peuplier,pollen d'arbre,,1989,568.2,17
+peuplier,pollen d'arbre,,1990,311.4,19
+peuplier,pollen d'arbre,,1991,645.2,25
+peuplier,pollen d'arbre,,1992,759.0,31
+peuplier,pollen d'arbre,,1993,327.2,35
+peuplier,pollen d'arbre,,1994,386.4,30
+peuplier,pollen d'arbre,,1995,501.9,35
+peuplier,pollen d'arbre,,1996,490.5,35
+peuplier,pollen d'arbre,,1997,490.0,40
+peuplier,pollen d'arbre,,1998,503.2,35
+peuplier,pollen d'arbre,,1999,557.2,38
+peuplier,pollen d'arbre,,2000,450.8,39
+peuplier,pollen d'arbre,,2001,305.8,41
+peuplier,pollen d'arbre,,2002,272.6,44
+peuplier,pollen d'arbre,,2003,592.4,48
+peuplier,pollen d'arbre,,2004,745.9,54
+peuplier,pollen d'arbre,,2005,653.1,56
+peuplier,pollen d'arbre,,2006,727.1,60
+peuplier,pollen d'arbre,,2007,500.9,60
+peuplier,pollen d'arbre,,2008,377.4,62
+peuplier,pollen d'arbre,,2009,746.7,64
+peuplier,pollen d'arbre,,2010,710.9,67
+peuplier,pollen d'arbre,,2011,666.4,68
+peuplier,pollen d'arbre,,2012,941.6,69
+peuplier,pollen d'arbre,,2013,465.6,70
+peuplier,pollen d'arbre,,2014,849.4,68
+peuplier,pollen d'arbre,,2015,615.9,68
+peuplier,pollen d'arbre,,2016,684.4,70
+peuplier,pollen d'arbre,,2017,724.8,72
+peuplier,pollen d'arbre,,2018,438.3,71
+peuplier,pollen d'arbre,,2019,850.0,69
+peuplier,pollen d'arbre,,2020,214.9,63
+peuplier,pollen d'arbre,,2021,716.5,70
+peuplier,pollen d'arbre,,2022,780.8,69
+peuplier,pollen d'arbre,,2023,753.6,73
+peuplier,pollen d'arbre,,2024,361.1,62
+plantain,pollen d'herbacée,Pla_l,1987,94.6,3
+plantain,pollen d'herbacée,Pla_l,1988,175.6,9
+plantain,pollen d'herbacée,Pla_l,1989,173.9,17
+plantain,pollen d'herbacée,Pla_l,1990,99.9,19
+plantain,pollen d'herbacée,Pla_l,1991,158.0,25
+plantain,pollen d'herbacée,Pla_l,1992,218.4,31
+plantain,pollen d'herbacée,Pla_l,1993,200.0,35
+plantain,pollen d'herbacée,Pla_l,1994,203.5,30
+plantain,pollen d'herbacée,Pla_l,1995,267.9,35
+plantain,pollen d'herbacée,Pla_l,1996,272.7,35
+plantain,pollen d'herbacée,Pla_l,1997,347.4,40
+plantain,pollen d'herbacée,Pla_l,1998,339.9,35
+plantain,pollen d'herbacée,Pla_l,1999,314.5,38
+plantain,pollen d'herbacée,Pla_l,2000,271.6,39
+plantain,pollen d'herbacée,Pla_l,2001,269.6,41
+plantain,pollen d'herbacée,Pla_l,2002,257.9,44
+plantain,pollen d'herbacée,Pla_l,2003,298.3,48
+plantain,pollen d'herbacée,Pla_l,2004,310.4,54
+plantain,pollen d'herbacée,Pla_l,2005,329.4,56
+plantain,pollen d'herbacée,Pla_l,2006,264.4,60
+plantain,pollen d'herbacée,Pla_l,2007,357.2,60
+plantain,pollen d'herbacée,Pla_l,2008,273.5,62
+plantain,pollen d'herbacée,Pla_l,2009,329.4,64
+plantain,pollen d'herbacée,Pla_l,2010,226.0,67
+plantain,pollen d'herbacée,Pla_l,2011,406.1,68
+plantain,pollen d'herbacée,Pla_l,2012,360.9,69
+plantain,pollen d'herbacée,Pla_l,2013,432.9,70
+plantain,pollen d'herbacée,Pla_l,2014,481.5,68
+plantain,pollen d'herbacée,Pla_l,2015,547.4,68
+plantain,pollen d'herbacée,Pla_l,2016,426.6,70
+plantain,pollen d'herbacée,Pla_l,2017,428.8,72
+plantain,pollen d'herbacée,Pla_l,2018,408.2,71
+plantain,pollen d'herbacée,Pla_l,2019,304.6,69
+plantain,pollen d'herbacée,Pla_l,2020,369.4,63
+plantain,pollen d'herbacée,Pla_l,2021,390.7,70
+plantain,pollen d'herbacée,Pla_l,2022,488.3,69
+plantain,pollen d'herbacée,Pla_l,2023,618.6,73
+plantain,pollen d'herbacée,Pla_l,2024,574.2,62
+platane,pollen d'arbre,Pla_a,1987,1370.2,3
+platane,pollen d'arbre,Pla_a,1988,632.4,9
+platane,pollen d'arbre,Pla_a,1989,771.0,17
+platane,pollen d'arbre,Pla_a,1990,739.8,19
+platane,pollen d'arbre,Pla_a,1991,680.0,25
+platane,pollen d'arbre,Pla_a,1992,265.0,31
+platane,pollen d'arbre,Pla_a,1993,328.0,35
+platane,pollen d'arbre,Pla_a,1994,398.8,30
+platane,pollen d'arbre,Pla_a,1995,547.4,35
+platane,pollen d'arbre,Pla_a,1996,698.9,35
+platane,pollen d'arbre,Pla_a,1997,721.2,40
+platane,pollen d'arbre,Pla_a,1998,518.1,35
+platane,pollen d'arbre,Pla_a,1999,684.2,38
+platane,pollen d'arbre,Pla_a,2000,753.5,39
+platane,pollen d'arbre,Pla_a,2001,359.4,41
+platane,pollen d'arbre,Pla_a,2002,736.0,44
+platane,pollen d'arbre,Pla_a,2003,857.5,48
+platane,pollen d'arbre,Pla_a,2004,953.4,54
+platane,pollen d'arbre,Pla_a,2005,943.3,56
+platane,pollen d'arbre,Pla_a,2006,1084.2,60
+platane,pollen d'arbre,Pla_a,2007,1497.8,60
+platane,pollen d'arbre,Pla_a,2008,535.8,62
+platane,pollen d'arbre,Pla_a,2009,757.1,64
+platane,pollen d'arbre,Pla_a,2010,867.2,67
+platane,pollen d'arbre,Pla_a,2011,1360.3,68
+platane,pollen d'arbre,Pla_a,2012,1562.1,69
+platane,pollen d'arbre,Pla_a,2013,621.0,70
+platane,pollen d'arbre,Pla_a,2014,828.7,68
+platane,pollen d'arbre,Pla_a,2015,1124.8,68
+platane,pollen d'arbre,Pla_a,2016,820.8,70
+platane,pollen d'arbre,Pla_a,2017,1117.2,72
+platane,pollen d'arbre,Pla_a,2018,1401.8,71
+platane,pollen d'arbre,Pla_a,2019,1228.6,69
+platane,pollen d'arbre,Pla_a,2020,149.0,63
+platane,pollen d'arbre,Pla_a,2021,951.5,70
+platane,pollen d'arbre,Pla_a,2022,825.2,69
+platane,pollen d'arbre,Pla_a,2023,1027.4,73
+platane,pollen d'arbre,Pla_a,2024,1007.2,62
+saule,pollen d'arbre,,1987,109.2,3
+saule,pollen d'arbre,,1988,103.8,9
+saule,pollen d'arbre,,1989,115.6,17
+saule,pollen d'arbre,,1990,124.0,19
+saule,pollen d'arbre,,1991,149.4,25
+saule,pollen d'arbre,,1992,200.5,31
+saule,pollen d'arbre,,1993,108.0,35
+saule,pollen d'arbre,,1994,199.2,30
+saule,pollen d'arbre,,1995,286.9,35
+saule,pollen d'arbre,,1996,312.0,35
+saule,pollen d'arbre,,1997,299.3,40
+saule,pollen d'arbre,,1998,217.6,35
+saule,pollen d'arbre,,1999,236.7,38
+saule,pollen d'arbre,,2000,223.3,39
+saule,pollen d'arbre,,2001,155.4,41
+saule,pollen d'arbre,,2002,314.7,44
+saule,pollen d'arbre,,2003,305.1,48
+saule,pollen d'arbre,,2004,262.2,54
+saule,pollen d'arbre,,2005,187.8,56
+saule,pollen d'arbre,,2006,216.0,60
+saule,pollen d'arbre,,2007,277.7,60
+saule,pollen d'arbre,,2008,147.6,62
+saule,pollen d'arbre,,2009,234.4,64
+saule,pollen d'arbre,,2010,230.7,67
+saule,pollen d'arbre,,2011,308.6,68
+saule,pollen d'arbre,,2012,271.0,69
+saule,pollen d'arbre,,2013,211.8,70
+saule,pollen d'arbre,,2014,359.8,68
+saule,pollen d'arbre,,2015,304.5,68
+saule,pollen d'arbre,,2016,275.2,70
+saule,pollen d'arbre,,2017,319.0,72
+saule,pollen d'arbre,,2018,266.2,71
+saule,pollen d'arbre,,2019,274.3,69
+saule,pollen d'arbre,,2020,90.7,63
+saule,pollen d'arbre,,2021,251.5,70
+saule,pollen d'arbre,,2022,305.6,69
+saule,pollen d'arbre,,2023,221.7,73
+saule,pollen d'arbre,,2024,210.1,62
+tilleul,pollen d'arbre,,1987,9.5,3
+tilleul,pollen d'arbre,,1988,10.8,9
+tilleul,pollen d'arbre,,1989,10.3,17
+tilleul,pollen d'arbre,,1990,14.6,19
+tilleul,pollen d'arbre,,1991,8.1,25
+tilleul,pollen d'arbre,,1992,25.3,31
+tilleul,pollen d'arbre,,1993,14.0,35
+tilleul,pollen d'arbre,,1994,17.4,30
+tilleul,pollen d'arbre,,1995,15.8,35
+tilleul,pollen d'arbre,,1996,21.6,35
+tilleul,pollen d'arbre,,1997,13.8,40
+tilleul,pollen d'arbre,,1998,17.9,35
+tilleul,pollen d'arbre,,1999,29.6,38
+tilleul,pollen d'arbre,,2000,17.2,39
+tilleul,pollen d'arbre,,2001,15.3,41
+tilleul,pollen d'arbre,,2002,22.5,44
+tilleul,pollen d'arbre,,2003,22.2,48
+tilleul,pollen d'arbre,,2004,43.3,54
+tilleul,pollen d'arbre,,2005,25.8,56
+tilleul,pollen d'arbre,,2006,22.0,60
+tilleul,pollen d'arbre,,2007,24.3,60
+tilleul,pollen d'arbre,,2008,23.2,62
+tilleul,pollen d'arbre,,2009,35.2,64
+tilleul,pollen d'arbre,,2010,32.2,67
+tilleul,pollen d'arbre,,2011,37.8,68
+tilleul,pollen d'arbre,,2012,34.0,69
+tilleul,pollen d'arbre,,2013,39.7,70
+tilleul,pollen d'arbre,,2014,26.5,68
+tilleul,pollen d'arbre,,2015,30.2,68
+tilleul,pollen d'arbre,,2016,43.2,70
+tilleul,pollen d'arbre,,2017,26.4,72
+tilleul,pollen d'arbre,,2018,45.4,71
+tilleul,pollen d'arbre,,2019,29.5,69
+tilleul,pollen d'arbre,,2020,22.8,63
+tilleul,pollen d'arbre,,2021,28.5,70
+tilleul,pollen d'arbre,,2022,25.7,69
+tilleul,pollen d'arbre,,2023,46.5,73
+tilleul,pollen d'arbre,,2024,33.8,62
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1987,3036.8,3
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1988,3011.3,9
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1989,1492.2,17
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1990,1837.6,19
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1991,1904.0,25
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1992,2962.0,31
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1993,3343.4,35
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1994,3395.5,30
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1995,4018.0,35
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1996,4721.8,35
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1997,5815.7,40
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1998,3818.4,35
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,1999,5343.0,38
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2000,5392.7,39
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2001,5024.0,41
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2002,5689.8,44
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2003,3692.0,48
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2004,3506.3,54
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2005,4100.5,56
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2006,3172.5,60
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2007,4494.5,60
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2008,4170.2,62
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2009,3796.2,64
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2010,3147.8,67
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2011,3567.4,68
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2012,4417.0,69
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2013,4559.4,70
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2014,3729.6,68
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2015,3656.2,68
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2016,5599.0,70
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2017,3498.2,72
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2018,4451.2,71
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2019,2336.5,69
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2020,2501.9,63
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2021,4917.6,70
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2022,3083.0,69
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2023,4061.3,73
+"urticacées (pariétaire, ortie)",pollen d'herbacée,Par_j,2024,5378.7,62

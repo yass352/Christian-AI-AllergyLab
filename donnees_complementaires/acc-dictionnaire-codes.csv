@@ -1,0 +1,138 @@
+variable,code,libelle
+Sexe,1,Masculin
+Sexe,0,Féminin
+Mois du prélèvement,1 à 12,Numéro de mois
+Département de résidence,Anonymisé,Numéro de département
+Département de résidence,999,Non renseigné
+Région de France,Anonymisé,Région de France
+Type d'habitat,9,Non renseigné
+Type d'habitat,0,Rural
+Type d'habitat,1,Urbain
+Atopie familliale (parents et fratrie),9,Non renseigné
+Atopie familliale (parents et fratrie),0,Non
+Atopie familliale (parents et fratrie),1,Oui
+ATCD ou actuel Dermatite Atopique,9,Non renseigné
+ATCD ou actuel Dermatite Atopique,0,Aucun ATCD
+ATCD ou actuel Dermatite Atopique,1,DA ancienne guérie
+ATCD ou actuel Dermatite Atopique,2,DA actuelle
+Traitement actuel DA,9,Non renseigné
+Traitement actuel DA,0,Pas de traitement
+Traitement actuel DA,1,Emollients
+Traitement actuel DA,2,Dermocorticoïdes
+Traitement actuel DA,3,Protopic
+Traitement actuel DA,4,Ciclosporine voie générale
+Traitement actuel DA,5,Dupilumab
+Traitement actuel DA,6,Upadacitinib
+Traitement actuel DA,7,Baricitinib
+Conjonctivite,9,Non renseigné
+Conjonctivite,0,non
+Conjonctivite,1,oui
+Syndrome oral,9,Non renseigné
+Syndrome oral,0,Non
+Syndrome oral,1,"oui, léger (atteinte cutanéo-muqueuse)"
+Syndrome oral,2,"oui, sévère (angioedème avec modification de la voix)"
+ATCD de pathologie mastocytaire,9,Non renseigné
+ATCD de pathologie mastocytaire,0,Aucun ATCD connu
+ATCD de pathologie mastocytaire,2,SAMA
+ATCD de pathologie mastocytaire,3,Mastocytose connue
+ATCD de pathologie mastocytaire,4,HaT connue
+ATCD de pathologie mastocytaire,5,Mastocytose + HaT
+ATCD d'anaphylaxie aux venins,9,Non renseigné
+ATCD d'anaphylaxie aux venins,0,Aucun ATCD connu
+ATCD d'anaphylaxie aux venins,1,oui
+COFACTEURS généraux,9,Non renseigné
+COFACTEURS généraux,0,Aucun connu
+COFACTEURS généraux,1,Effort/Activité sportive
+COFACTEURS généraux,2,AINS
+COFACTEURS généraux,3,Alcool
+COFACTEURS généraux,4,Moisissures (maison insalubre)
+COFACTEURS généraux,5,Acariens (ancienne literie ou drap non changés)
+COFACTEURS généraux,6,Animaux de compagnie : chat
+COFACTEURS généraux,7,Animaux de compagnie : chien
+COFACTEURS généraux,8,Animaux de compagnie : cheval
+COFACTEURS généraux,10,"Animaux de compagnie : rongeur (lapin, hamster, cobaye, souris, rat …)"
+COFACTEURS généraux,11,Mucoviscidose
+COFACTEURS généraux,12,IPP
+Age d'apparition AA,9,Non renseigné
+Age d'apparition AA,0,Pas d'AA
+Age d'apparition AA,1,Avant 6 mois
+Age d'apparition AA,2,Entre 6 mois et 2 ans
+Age d'apparition AA,3,Entre 2 - 3 ans
+Age d'apparition AA,4,Entre 3 - 10 ans
+Age d'apparition AA,5,Entre 10 - 20 ans
+Age d'apparition AA,6,Après 20 ans
+ATCD d'anaphylaxie alimentaire (AA),9,Non renseigné
+ATCD d'anaphylaxie alimentaire (AA),0,Non
+ATCD d'anaphylaxie alimentaire (AA),1,Oui
+ATCD d'anaphylaxie alimentaire (AA),2,Pas d'anaphylaxie
+ATCD d'anaphylaxie alimentaire (AA),3,Seulement à l'interrogatoire
+ATCD d'anaphylaxie alimentaire (AA),4,SAMU/adrénaline
+ATCD d'anaphylaxie alimentaire (AA),5,Lors d'un TPO
+ATCD d'anaphylaxie alimentaire (AA),6,Urticaire isolée
+ATCD d'anaphylaxie alimentaire (AA),7,Signes systémiques
+ATCD d'anaphylaxie alimentaire (AA),8,Collapsus
+Peau/urticaire,9,sans objet
+Peau/urticaire,0,NON
+Peau/urticaire,1,OUI
+Digestif,9,sans objet
+Digestif,0,NON
+Digestif,1,OUI
+respiratoire,9,sans objet
+respiratoire,0,NON
+respiratoire,1,OUI
+CV,9,sans objet
+CV,0,NON
+CV,1,OUI
+Polyallergie alimentaire,9,Non renseigné
+Polyallergie alimentaire,0,Absence de polyallergie
+Polyallergie alimentaire,1,Au moins 2 classes d'aliments
+Clinique par Aliment,9,Non renseigné
+Clinique par Aliment,0,Aliment consommé
+Clinique par Aliment,1,"Aliment non consommé, en éviction stricte"
+Clinique par Aliment,2,Aliment consommé sous ITO
+Clinique par Aliment,3,Eviction d'aliment post-anaphylaxie
+Clinique par Aliment,4,Anaphylaxie récente
+TPO,9,Non disponible
+TPO,0,TPO négatif
+TPO,1,TPO positif modéré
+TPO,2,TPO positif sévère
+Viande de mammifère,9,Non renseigné
+Viande de mammifère,0,Consommé
+Viande de mammifère,1,Non consommé
+Viande de mammifère,2,Anaphylaxie non retardée (<1 h)
+Viande de mammifère,3,Anaphylaxie retardée (2-4 h)
+Viande de mammifère,4,Anaphylaxie (sans délai connu)
+ARIA (rhinite),9,Non renseigné
+ARIA (rhinite),0,Absence de rhinite
+ARIA (rhinite),1,Rhinite non gradée
+ARIA (rhinite),2,"Intermittent, léger"
+ARIA (rhinite),3,"Intermittent, sévère"
+ARIA (rhinite),4,"Persistant, léger"
+ARIA (rhinite),5,"Persistant, sévère"
+Traitement rhinite,9,Non renseigné
+Traitement rhinite,0,Aucun
+Traitement rhinite,1,"Anti-H1, voie locale"
+Traitement rhinite,2,Anti-H1 voie générale
+Traitement rhinite,3,Anti-H1 + CS voie locale
+Traitement rhinite,4,CS voie générale
+GINA (ancien),9,Non renseigné
+GINA (ancien),0,Absence d'asthme
+GINA (ancien),1,"Asthme, non gradé"
+GINA (ancien),2,"Intermittent, léger"
+GINA (ancien),3,"Intermittent, sévère"
+GINA (ancien),4,"Persistant, léger"
+GINA (ancien),5,"Persistant, sévère"
+Traitement (New) GINA,9,Non renseigné
+Traitement (New) GINA,0,Aucun
+Traitement (New) GINA,1,SABA à la demande
+Traitement (New) GINA,2,ICS faible dose
+Traitement (New) GINA,3,ICS/LABA faible dose
+Traitement (New) GINA,4,ICS/LABA moyenne/forte dose
+Traitement (New) GINA,5,ICS/LABA forte dose ou ICS long cours
+Traitement (New) GINA,6,Biothérapie anti-IL5/IL5R
+Traitement (New) GINA,7,Biothérapie anti-IL4/13R
+Traitement (New) GINA,8,Non répondeur biothérapie
+Traitement (New) GINA,10,LTRA +/- low dose ICS
+Puce réalisée,0,ISAC version 1
+Puce réalisée,1,ISAC E112i
+Puce réalisée,2,ALEX

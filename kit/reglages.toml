@@ -1,0 +1,30 @@
+# Réglages du kit. Les identifiants des modèles et leurs tarifs ne sont écrits
+# qu'ici. Les tarifs servent à estimer le coût affiché à chaque exécution : ce
+# n'est pas un relevé, le relevé exact est dans la console d'Anthropic.
+
+# Le modèle du développement : celui de chaque `uv run kit agent`.
+[modeles.developpement]
+identifiant = "claude-haiku-5-5"
+# Dollars par million de jetons, en entrée et en sortie (requêtes de moins de
+# 100 000 jetons en entrée).
+entree = 0.10
+sortie = 0.50
+
+# Le modèle des passes officielles.
+[modeles.officiel]
+identifiant = "claude-sonnet-5-5"
+entree = 2.00
+sortie = 10.00
+
+[agent]
+# Le plus grand nombre d'étapes de l'agent pour une question.
+etapes_max = 8
+# Le plus grand nombre de caractères d'une sortie : ce qu'affiche le code de
+# l'agent, ce que rend un outil. Au-delà, la sortie est tronquée, pour le
+# modèle comme pour la trace.
+sortie_max = 2000
+
+[limite]
+# Une erreur 400 dont le message correspond à ce motif (expression régulière)
+# veut dire que la limite de dépense est atteinte : la cagnotte est épuisée.
+motif = "(?i)usage limits|credit balance"

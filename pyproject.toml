@@ -1,0 +1,38 @@
+[project]
+name = "allergylab-kit"
+version = "0.1.0"
+description = "Kit de démarrage AllergyLab : un harnais pour construire un agent d'analyse de données de santé."
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = [
+    "anthropic",
+    "fastapi>=0.164.0",
+    "pandas",
+    "python-calamine>=0.9.1",
+    "smolagents[litellm]==1.26.0",
+    "streamlit>=1.67.0",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[dependency-groups]
+dev = ["pytest"]
+
+# La commande `uv run kit …` appelle la fonction main de kit/cli.py.
+[project.scripts]
+kit = "kit.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.9,<0.14"]
+build-backend = "uv_build"
+
+# Le paquet kit/ est à la racine du dépôt, pas dans un dossier src/.
+[tool.uv.build-backend]
+module-name = "kit"
+module-root = ""
+
+[tool.pytest.ini_options]
+testpaths = ["kit/tests", "equipe/tests"]
+# La racine du dépôt dans le chemin d'import : les tests de l'équipe importent equipe.outils.
+pythonpath = ["."]
+# Un avertissement de pydantic, émis à l'import de litellm, sans rapport avec le kit.
+filterwarnings = ["ignore:.*ReadOnly.*:UserWarning"]
